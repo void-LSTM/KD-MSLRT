@@ -1,0 +1,541 @@
+,path,singer,gloss,ori_path
+0,landmark_dev/right_hand_landmarksdev_PHOENIX_0.parquet,Signer04,ICH OSTERN WETTER ZUFRIEDEN MITTAG TEMPERATUR  SUED WARM MEIN NICHT,01April_2010_Thursday_heute_default-1/1
+1,landmark_dev/right_hand_landmarksdev_PHOENIX_1.parquet,Signer07,VIELLEICHT THUERINGEN REGION AUCH BISSCHEN WOLKE BISSCHEN STARK WOLKE ABER SUED MAINZ FLUSS SUEDWEST VIEL NICHT-KEIN WOLKE VIEL SONNE,01August_2011_Monday_heute_default-6/1
+2,landmark_dev/right_hand_landmarksdev_PHOENIX_2.parquet,Signer05,STUNDE AUCH MEISTENS REGEN ERST WEST DANN REGION SUED BLEIBEN TROCKEN,01December_2011_Thursday_heute_default-3/1
+3,landmark_dev/right_hand_landmarksdev_PHOENIX_3.parquet,Signer05,UND TAG BLEIBEN KUEHL SECHS GRAD BAYERN IX REGION AUCH S+H IX AUCH ABER,01December_2011_Thursday_heute_default-5/1
+4,landmark_dev/right_hand_landmarksdev_PHOENIX_4.parquet,Signer08,MORGEN NORD MEHR MILD WEST SUEDOST BLEIBEN UNTER VIER NULL GRAD __OFF__,01February_2011_Tuesday_heute_default-6/1
+5,landmark_dev/right_hand_landmarksdev_PHOENIX_5.parquet,Signer08,__ON__ SUED VERAENDERN KAUM WIE HEUTE SONNE ODER NEBEL,01February_2011_Tuesday_heute_default-8/1
+6,landmark_dev/right_hand_landmarksdev_PHOENIX_6.parquet,Signer08,IN-KOMMEND SCHNEE FREITAG SAMSTAG NORD WIND REGEN,01February_2011_Tuesday_tagesschau_default-14/1
+7,landmark_dev/right_hand_landmarksdev_PHOENIX_7.parquet,Signer09,MORGEN NORD KAUM GEWITTER REGION SONNE MITTE REGION SUED MEHR DURCHEINANDER WOLKE UEBERWIEGEND GEWITTER,01July_2009_Wednesday_tagesschau_default-3/1
+8,landmark_dev/right_hand_landmarksdev_PHOENIX_8.parquet,Signer04,NORD SONNE WOLKE WECHSELHAFT BISSCHEN SCHAUER SUEDWEST BESONDERS SONNE MOEGLICH,01July_2011_Friday_tagesschau_default-6/1
+9,landmark_dev/right_hand_landmarksdev_PHOENIX_9.parquet,Signer04,HEUTE NACHT DREIZEHN NORD VIER BERG AM-TAG DREIZEHN OST,01July_2011_Friday_tagesschau_default-8/1
+10,landmark_dev/right_hand_landmarksdev_PHOENIX_10.parquet,Signer04,EINS ZWANZIG FLUSS __ON__ __OFF__ SONNTAG VIEL WOLKE REGEN,01July_2011_Friday_tagesschau_default-9/1
+11,landmark_dev/right_hand_landmarksdev_PHOENIX_11.parquet,Signer01,__ON__ MORGEN WETTER WIE-AUSSEHEN MITTWOCH ZWEITE JUNI __OFF__,01June_2010_Tuesday_tagesschau_default-0/1
+12,landmark_dev/right_hand_landmarksdev_PHOENIX_12.parquet,Signer01,__ON__ MORGEN MEISTENS SONNE NORD KOENNEN  BEWOELKT __OFF__,01March_2011_Tuesday_tagesschau_default-4/1
+13,landmark_dev/right_hand_landmarksdev_PHOENIX_13.parquet,Signer01,__ON__ REGION WEHEN SUED  VIEL FRISCH WIND BISSCHEN STURM,01March_2011_Tuesday_tagesschau_default-6/1
+14,landmark_dev/right_hand_landmarksdev_PHOENIX_14.parquet,Signer01,BERG STURM ORKAN KOENNEN __OFF__,01March_2011_Tuesday_tagesschau_default-7/1
+15,landmark_dev/right_hand_landmarksdev_PHOENIX_15.parquet,Signer05,MITTWOCH SUED NORD BISSCHEN REGEN SONST REGION FREUNDLICH __OFF__,01May_2010_Saturday_tagesschau_default-13/1
+16,landmark_dev/right_hand_landmarksdev_PHOENIX_16.parquet,Signer05,NORDWEST AUCH TEIL IX REGEN __OFF__,01November_2010_Monday_tagesschau_default-8/1
+17,landmark_dev/right_hand_landmarksdev_PHOENIX_17.parquet,Signer03,__ON__ HEUTE NACHT ELF BIS DREI GRAD MITTE BERG MOEGLICH BODEN FROST MORGEN ZEHN GRAD IX SIEBZEHN GRAD OBER FLUSS __OFF__,01October_2009_Thursday_tagesschau_default-8/1
+18,landmark_dev/right_hand_landmarksdev_PHOENIX_18.parquet,Signer04,__ON__ JETZT WETTER WIE-AUSSEHEN MORGEN SAMSTAG ZWEITE OKTOBER __OFF__,01October_2010_Friday_tagesschau_default-0/1
+19,landmark_dev/right_hand_landmarksdev_PHOENIX_19.parquet,Signer05,BESONDERS OST SUED __OFF__,02August_2010_Monday_heute_default-7/1
+20,landmark_dev/right_hand_landmarksdev_PHOENIX_20.parquet,Signer07,__ON__ GUT ABEND LIEB ZUSCHAUER SO VIEL SCHNEE ANFANG DEZEMBER TJA SELTEN BISHER WENN UEBER SICHT NULL FAST REGION DEUTSCHLAND REGION SCHNEE HABEN,02December_2010_Thursday_heute_default-0/1
+21,landmark_dev/right_hand_landmarksdev_PHOENIX_21.parquet,Signer07,SONST REST MEHR KLAR NORD NORDWEST MEHR VIEL WOLKE SCHNEE MEHR KUESTE REGION SUED BAYERN,02December_2010_Thursday_tagesschau_default-5/1
+22,landmark_dev/right_hand_landmarksdev_PHOENIX_22.parquet,Signer04,NACHT IX BISSCHEN REGEN HOCH SCHNEE REGION TEIL KLAR NORD GEBEN SCHAUER __OFF__,02December_2011_Friday_tagesschau_default-3/1
+23,landmark_dev/right_hand_landmarksdev_PHOENIX_23.parquet,Signer01,SAMSTAG AUCH DANN SONNTAG WEST BISSCHEN SCHAUER GEWITTER,02June_2010_Wednesday_heute_default-12/1
+24,landmark_dev/right_hand_landmarksdev_PHOENIX_24.parquet,Signer01,HEUTE NACHT SECHS BIS DREIZEHN GRAD TAG TEMPERATUR STEIGEN ZEHN GRAD ALPEN BIS FUENF ZWANZIG GRAD WEST __OFF__,02June_2010_Wednesday_tagesschau_default-10/1
+25,landmark_dev/right_hand_landmarksdev_PHOENIX_25.parquet,Signer01,__ON__ IX REGION MOEGLICH  MORGEN TRUEB HIMMEL __OFF__,02March_2011_Wednesday_tagesschau_default-7/1
+26,landmark_dev/right_hand_landmarksdev_PHOENIX_26.parquet,Signer05,__ON__ GUT ABEND LIEB DU ZUSCHAUER EUCH __OFF__,02November_2010_Tuesday_heute_default-0/1
+27,landmark_dev/right_hand_landmarksdev_PHOENIX_27.parquet,Signer05,__ON__ MILD NORD AUCH ZWOELF ZWISCHEN VIERZEHN SUED UNGEFAEHR VIERZEHN MAXIMAL SECHSZEHN GRAD,02November_2010_Tuesday_heute_default-12/1
+28,landmark_dev/right_hand_landmarksdev_PHOENIX_28.parquet,Signer05,SUED WAHRSCHEINLICH HOCH DRUCK RUHIG FREUNDLICH HERBST __OFF__,02November_2010_Tuesday_tagesschau_default-3/1
+29,landmark_dev/right_hand_landmarksdev_PHOENIX_29.parquet,Signer05,MEER WENN STEIGEN SCHWER STURM TEIL __OFF__,02November_2010_Tuesday_tagesschau_default-10/1
+30,landmark_dev/right_hand_landmarksdev_PHOENIX_30.parquet,Signer05,AUCH SAMSTAG NAECHSTE GLEICH IX KOMMEN MEHR KUEHL __OFF__,02November_2010_Tuesday_tagesschau_default-15/1
+31,landmark_dev/right_hand_landmarksdev_PHOENIX_31.parquet,Signer03,DAZU MORGEN NORD WETTER WECHSELHAFT  SONNTAG AUCH MITTE REGION SO __OFF__,02October_2009_Friday_tagesschau_default-3/1
+32,landmark_dev/right_hand_landmarksdev_PHOENIX_32.parquet,Signer03,MONTAG NORD REGION REGEN REGION BESSER IM-VERLAUF REGION REGEN,02October_2009_Friday_tagesschau_default-12/1
+33,landmark_dev/right_hand_landmarksdev_PHOENIX_33.parquet,Signer05,HEUTE NACHT NICHT-KAUM  NUR NORDWEST BISSCHEN REGEN SONST REGION RUHIG,02October_2012_Tuesday_heute_default-6/1
+34,landmark_dev/right_hand_landmarksdev_PHOENIX_34.parquet,Signer05,__ON__ MORGEN FEIER UND UNTERSCHIED DANN TRENNEN ICH NORDWEST MEHR WOLKE,02October_2012_Tuesday_heute_default-10/1
+35,landmark_dev/right_hand_landmarksdev_PHOENIX_35.parquet,Signer05,MORGEN FRUEH FUENF BIS MAXIMAL ZWOELF NORD DEUTSCHLAND IX KLAR LUFT IX NEBEL UND TEILWEISE,02September_2010_Thursday_heute_default-3/1
+36,landmark_dev/right_hand_landmarksdev_PHOENIX_36.parquet,Signer05,BISSCHEN DAZWISCHEN REGEN HERZ BERG BAYERN REGION MORGEN NORD FREUNDLICH SONNE WOLKE ABER,02September_2010_Thursday_heute_default-4/1
+37,landmark_dev/right_hand_landmarksdev_PHOENIX_37.parquet,Signer01,SONNE FRISCH BIS ZEHN GRAD SUEDOST AUCH,03August_2010_Tuesday_heute_default-3/1
+38,landmark_dev/right_hand_landmarksdev_PHOENIX_38.parquet,Signer01,BESONDERS NORDWEST NACHMITTAG KOMMEN FLUSS REGION DANN WAHRSCHEINLICH ABEND,03August_2010_Tuesday_heute_default-6/1
+39,landmark_dev/right_hand_landmarksdev_PHOENIX_39.parquet,Signer01,__ON__ DANN KOMMEN SCHAUER STARK MIT GEWITTER __OFF__,03August_2010_Tuesday_tagesschau_default-6/1
+40,landmark_dev/right_hand_landmarksdev_PHOENIX_40.parquet,Signer05,__ON__ JETZT WIE-AUSSEHEN WETTER MORGEN DONNERSTAG VIERTE FEBRUAR __OFF__,03February_2010_Wednesday_tagesschau_default-0/1
+41,landmark_dev/right_hand_landmarksdev_PHOENIX_41.parquet,Signer08,__ON__ BAYERN WALD HEUTE ABEND MINUS FUENF FLUSS DREI GRAD MORGEN ZWEI GRAD REGION FLUSS NEUN GRAD __OFF__,03February_2011_Thursday_tagesschau_default-8/1
+42,landmark_dev/right_hand_landmarksdev_PHOENIX_42.parquet,Signer04,GERADE RHEIN-PFALZ SAARLAND NORDRHEIN-WESTFALEN GEWITTER,03July_2009_Friday_tagesschau_default-3/1
+43,landmark_dev/right_hand_landmarksdev_PHOENIX_43.parquet,Signer04,IM-MOMENT DOCH GEWITTER DEUTSCH WETTER DIENST WARNUNG SCHON FERTIG BEKANNTGEBEN,03July_2009_Friday_tagesschau_default-8/1
+44,landmark_dev/right_hand_landmarksdev_PHOENIX_44.parquet,Signer01,__ON__ GEWITTER NAEHE WOANDERS IX DANN GEWITTER STURM MAESSIG HEUTE NACHT REGION ZWANZIG GRAD,03July_2010_Saturday_tagesschau_default-9/1
+45,landmark_dev/right_hand_landmarksdev_PHOENIX_45.parquet,Signer04,MITTWOCH WECHSELHAFT AUCH DONNERSTAG WEITER WECHSELHAFT,03July_2011_Sunday_tagesschau_default-14/1
+46,landmark_dev/right_hand_landmarksdev_PHOENIX_46.parquet,Signer05,SUED BISSCHEN WOLKE ALPEN LETZTE REGEN __OFF__,03June_2010_Thursday_tagesschau_default-8/1
+47,landmark_dev/right_hand_landmarksdev_PHOENIX_47.parquet,Signer05,MORGEN IX MILD ZWOELF NORD ZWEI GRAD,03March_2011_Thursday_tagesschau_default-15/1
+48,landmark_dev/right_hand_landmarksdev_PHOENIX_48.parquet,Signer07,REGEN FLUSS SUED MOEGLICH SONNE,03November_2010_Wednesday_tagesschau_default-5/1
+49,landmark_dev/right_hand_landmarksdev_PHOENIX_49.parquet,Signer07,BLEIBEN TROCKEN SUED WEHEN BISSCHEN WEHEN NORD FRISCH NATUR STARK STURM SEE MEER SCHWER STURM,03November_2010_Wednesday_tagesschau_default-6/1
+50,landmark_dev/right_hand_landmarksdev_PHOENIX_50.parquet,Signer07,BERG E+R+Z BERG AUCH ORKAN KOELN REGION IX DREIZEHN GRAD ALPEN DREI GRAD,03November_2010_Wednesday_tagesschau_default-7/1
+51,landmark_dev/right_hand_landmarksdev_PHOENIX_51.parquet,Signer05,__ON__ JETZT WETTER WIE-AUSSEHEN MORGEN DONNERSTAG VIERTE OKTOBER __OFF__,03October_2012_Wednesday_tagesschau_default-0/1
+52,landmark_dev/right_hand_landmarksdev_PHOENIX_52.parquet,Signer05,SUEDOST MEISTENS TROCKEN MORGEN HAUPTSAECHLICH WOLKE VERSCHWINDEN IX SONST REGION HAUPTSAECHLICH REGEN,03October_2012_Wednesday_tagesschau_default-5/1
+53,landmark_dev/right_hand_landmarksdev_PHOENIX_53.parquet,Signer05,__ON__ KUEHL KOMMEN TEMPERATUR SAMSTAG SONNTAG IX GLEICH ,03September_2010_Friday_tagesschau_default-2/1
+54,landmark_dev/right_hand_landmarksdev_PHOENIX_54.parquet,Signer05,TAG NORDOST SECHSZEHN REGION IX DREI ZWANZIG GRAD __OFF__,03September_2010_Friday_tagesschau_default-10/1
+55,landmark_dev/right_hand_landmarksdev_PHOENIX_55.parquet,Signer01,__ON__ SONNE __OFF__,04April_2011_Monday_heute_default-4/1
+56,landmark_dev/right_hand_landmarksdev_PHOENIX_56.parquet,Signer01,__ON__ MORGEN MEHR WARM IX ALS HEUTE VIERZEHN BIS NEUNZEHN GRAD KOENNEN,04April_2011_Monday_heute_default-9/1
+57,landmark_dev/right_hand_landmarksdev_PHOENIX_57.parquet,Signer05,MONTAG AUCH WECHSELHAFT UND MEHR KUEHL __OFF__,04August_2011_Thursday_tagesschau_default-13/1
+58,landmark_dev/right_hand_landmarksdev_PHOENIX_58.parquet,Signer05,__ON__ MANCHMAL SCHWACH MAESSIG IX WIND IX X WEST STARK WIND __OFF__,04December_2009_Friday_tagesschau_default-7/1
+59,landmark_dev/right_hand_landmarksdev_PHOENIX_59.parquet,Signer01,AUCH SCHNEE DABEI SCHNEE WARUM HEUTE NACHT KALT ZEIGEN-BILDSCHIRM LEICHT FROST MINUS EINS BIS MINUS VIER NUR WEST FROST KEIN,04February_2010_Thursday_heute_default-1/1
+60,landmark_dev/right_hand_landmarksdev_PHOENIX_60.parquet,Signer01,ANFANG KOENNEN SCHNEE MISCHUNG NORD TAG REGEN KOMMEN NOCH-NICHT SONNE FREUNDLICH SONNE DABEI,04February_2010_Thursday_heute_default-4/1
+61,landmark_dev/right_hand_landmarksdev_PHOENIX_61.parquet,Signer01,__ON__ SCHWARZ WALD FUENF ZWANZIG C+M HARZ BIS SECHZIG C+M __OFF__,04January_2010_Monday_heute_default-2/1
+62,landmark_dev/right_hand_landmarksdev_PHOENIX_62.parquet,Signer01,REGION ANDERS MILD HINREICHEND HEUTE NACHT HINREICHEND SCHNEE VIELLEICHT BIS REGEN DABEI,04January_2010_Monday_heute_default-4/1
+63,landmark_dev/right_hand_landmarksdev_PHOENIX_63.parquet,Signer01,__ON__ TAGSUEBER MINUS SIEBEN BIS NULL GRAD NORD BIS PLUS EINS GRAD __OFF__,04January_2010_Monday_tagesschau_default-11/1
+64,landmark_dev/right_hand_landmarksdev_PHOENIX_64.parquet,Signer05,SONST REGION MEISTENS WOLKE NEBEL SONST REGION KLAR TROCKEN,04January_2011_Tuesday_tagesschau_default-5/1
+65,landmark_dev/right_hand_landmarksdev_PHOENIX_65.parquet,Signer04,__ON__ MONTAG UEBERWIEGEND SCHAUER OST GEWITTER SUED WEST LANG FREUNDLICH,04July_2009_Saturday_tagesschau_default-10/1
+66,landmark_dev/right_hand_landmarksdev_PHOENIX_66.parquet,Signer04,__ON__ JETZT WETTER WIE-AUSSEHEN MORGEN MONTAG FUENFTE JULI __OFF__,04July_2010_Sunday_tagesschau_default-0/1
+67,landmark_dev/right_hand_landmarksdev_PHOENIX_67.parquet,Signer04,__ON__ TIEF NORD EUROPA DIESE NORDWEST MORGEN SCHAUER SUEDOST GEWITTER,04July_2010_Sunday_tagesschau_default-2/1
+68,landmark_dev/right_hand_landmarksdev_PHOENIX_68.parquet,Signer07,__ON__ IHR WUENSCHEN WISSEN SOMMER WEITER WIE LAUFEN WIE-AUSSEHEN DAMEN UND HERREN EUCH BLEIBEN HOCH TIEF HOCH TIEF ,04July_2011_Monday_heute_default-0/1
+69,landmark_dev/right_hand_landmarksdev_PHOENIX_69.parquet,Signer07,ABER REGEN NORD IX BIS E+R+Z BERG REGION REGEN,04July_2011_Monday_heute_default-6/1
+70,landmark_dev/right_hand_landmarksdev_PHOENIX_70.parquet,Signer07,NUR NORD WEHEN __OFF__,04July_2011_Monday_tagesschau_default-11/1
+71,landmark_dev/right_hand_landmarksdev_PHOENIX_71.parquet,Signer04,HOCH NORD SONNE DESWEGEN GRENZE HOCH TIEF HOCH KALT WIND,04May_2010_Tuesday_heute_default-1/1
+72,landmark_dev/right_hand_landmarksdev_PHOENIX_72.parquet,Signer01,__ON__ LANGSAM STEIGEN WARM FLUSS ACHTZEHN BIS ZWANZIG GRAD,04May_2011_Wednesday_heute_default-11/1
+73,landmark_dev/right_hand_landmarksdev_PHOENIX_73.parquet,Signer01,__ON__ LIEB ZUSCHAUER EUCH GUT ABEND,04October_2010_Monday_heute_default-0/1
+74,landmark_dev/right_hand_landmarksdev_PHOENIX_74.parquet,Signer01,DEUTSCH LAND SUED AUCH BRINGEN ZIEHEN REGEN __OFF__,04October_2010_Monday_heute_default-3/1
+75,landmark_dev/right_hand_landmarksdev_PHOENIX_75.parquet,Signer01,ZWANZIG BIS UEBER ZWANZIG GRAD IN-KOMMEND IN-KOMMEND AEHNLICH,04October_2010_Monday_heute_default-15/1
+76,landmark_dev/right_hand_landmarksdev_PHOENIX_76.parquet,Signer03,__ON__ JETZT WETTER MORGEN DIENSTAG SECHSTE APRIL __OFF__,05April_2010_Monday_tagesschau_default-0/1
+77,landmark_dev/right_hand_landmarksdev_PHOENIX_77.parquet,Signer01,__ON__ REGION NICHT-KAUM SONNE BESONDERS NORD REGEN KOENNEN __OFF__,05April_2011_Tuesday_heute_default-10/1
+78,landmark_dev/right_hand_landmarksdev_PHOENIX_78.parquet,Signer01,ALSO FLUSS NAH __OFF__,05April_2011_Tuesday_heute_default-16/1
+79,landmark_dev/right_hand_landmarksdev_PHOENIX_79.parquet,Signer01,__ON__ REGION KOMMEN SONNE SEHEN KOENNEN __OFF__,05April_2011_Tuesday_tagesschau_default-9/1
+80,landmark_dev/right_hand_landmarksdev_PHOENIX_80.parquet,Signer04,ERSTE WOLKE TIEF NORWEGEN ABER TIEF NORD ITALIEN KOMMEN,05August_2010_Thursday_tagesschau_default-3/1
+81,landmark_dev/right_hand_landmarksdev_PHOENIX_81.parquet,Signer01,__ON__ WEST REGEN KOENNEN __OFF__,05December_2009_Saturday_tagesschau_default-3/1
+82,landmark_dev/right_hand_landmarksdev_PHOENIX_82.parquet,Signer01,__ON__ IX AUCH WIND DABEI TEMPERATUR  FUENF BIS UNGEFAEHR DREIZEHN GRAD REGION __OFF__,05December_2009_Saturday_tagesschau_default-4/1
+83,landmark_dev/right_hand_landmarksdev_PHOENIX_83.parquet,Signer01,__ON__ HEUTE NACHT TEMPERATUR MINUS FUENF NORD BIS PLUS DREI WEST FLUSS __OFF__,05February_2010_Friday_tagesschau_default-10/1
+84,landmark_dev/right_hand_landmarksdev_PHOENIX_84.parquet,Signer01,__ON__ IX PLUS SECHS GRAD VOR POMMERN REGION BISSCHEN FROST __OFF__,05February_2010_Friday_tagesschau_default-12/1
+85,landmark_dev/right_hand_landmarksdev_PHOENIX_85.parquet,Signer04,HEUTE NACHT NORD TEIL STURM BERG ORKAN,05February_2011_Saturday_tagesschau_default-8/1
+86,landmark_dev/right_hand_landmarksdev_PHOENIX_86.parquet,Signer04,MONTAG AN KUESTE TEIL REGEN STURM,05February_2011_Saturday_tagesschau_default-11/1
+87,landmark_dev/right_hand_landmarksdev_PHOENIX_87.parquet,Signer01,__ON__ HEUTE NACHT MINUS ZWEI NORD MITTE MINUS EINS ZWANZIG GRAD __OFF__,05January_2010_Tuesday_tagesschau_default-12/1
+88,landmark_dev/right_hand_landmarksdev_PHOENIX_88.parquet,Signer08,KOENNEN WASSER STEIGEN HEUTE NACHT KOMMEN WOLKE KOMMEN,05January_2011_Wednesday_tagesschau_default-4/1
+89,landmark_dev/right_hand_landmarksdev_PHOENIX_89.parquet,Signer01,WETTER KOENNEN SAGEN  REGEN REGION DANN SCHAUER VOR MITTAG,05July_2010_Monday_heute_default-7/1
+90,landmark_dev/right_hand_landmarksdev_PHOENIX_90.parquet,Signer01,__ON__ TAG SONNE WOLKE WECHSELHAFT TEILWEISE AUCH LANG SONNE ,05July_2010_Monday_tagesschau_default-7/1
+91,landmark_dev/right_hand_landmarksdev_PHOENIX_91.parquet,Signer05,__ON__ JETZT WETTER WIE-AUSSEHEN MORGEN SONNTAG SECHSTE JUNI __OFF__,05June_2010_Saturday_tagesschau_default-0/1
+92,landmark_dev/right_hand_landmarksdev_PHOENIX_92.parquet,Signer08,__ON__ JETZT WETTER WIE-AUSSEHEN MORGEN FREITAG SECHSTE MAI ZEIGEN-BILDSCHIRM __OFF__,05May_2011_Thursday_tagesschau_default-0/1
+93,landmark_dev/right_hand_landmarksdev_PHOENIX_93.parquet,Signer08,SUEDWEST WEST KOENNEN REGEN __OFF__,05May_2011_Thursday_tagesschau_default-17/1
+94,landmark_dev/right_hand_landmarksdev_PHOENIX_94.parquet,Signer07,REGEN ZONE WEG IX NORD WIEDER BISSCHEN SONNE ABER BISSCHEN REGEN NOCH HABEN BISSCHEN MAESSIG MITTE WEHEN,05November_2010_Friday_tagesschau_default-7/1
+95,landmark_dev/right_hand_landmarksdev_PHOENIX_95.parquet,Signer01,__ON__ LIEB ZUSCHAUER EUCH GUT ABEND __OFF__,05October_2011_Wednesday_heute_default-0/1
+96,landmark_dev/right_hand_landmarksdev_PHOENIX_96.parquet,Signer01,NORDWEST REGEN KOMMEN __OFF__,05October_2011_Wednesday_heute_default-8/1
+97,landmark_dev/right_hand_landmarksdev_PHOENIX_97.parquet,Signer04,__ON__ WETTER WIE-AUSSEHEN  MORGEN SONNTAG SECHS SEPTEMBER __OFF__,05September_2009_Saturday_tagesschau_default-0/1
+98,landmark_dev/right_hand_landmarksdev_PHOENIX_98.parquet,Signer04,AUCH OBER FLUSS BIS ABEND MEHR WOLKE WIND SCHWACH,05September_2010_Sunday_tagesschau_default-6/1
+99,landmark_dev/right_hand_landmarksdev_PHOENIX_99.parquet,Signer03,__ON__ HOCH K+U+N+A MITBRINGEN KOMMEN FRUEHLING ,06April_2010_Tuesday_heute_default-0/1
+100,landmark_dev/right_hand_landmarksdev_PHOENIX_100.parquet,Signer03,WIND SCHWACH MAESSIG WEHEN  SUEDOST HEUTE NACHT MOEGLICH NULL GRAD ,06April_2010_Tuesday_tagesschau_default-8/1
+101,landmark_dev/right_hand_landmarksdev_PHOENIX_101.parquet,Signer04,__ON__ JETZT WETTER WIE-AUSSEHEN MORGEN SAMSTAG SIEBTE AUGUST __OFF__,06August_2010_Friday_tagesschau_default-0/1
+102,landmark_dev/right_hand_landmarksdev_PHOENIX_102.parquet,Signer07,STURM TAGSUEBER DABEI IHR WUENSCHEN ABEND MACHEN GUT __OFF__,06December_2011_Tuesday_heute_default-12/1
+103,landmark_dev/right_hand_landmarksdev_PHOENIX_103.parquet,Signer07,BERG MEISTENS SCHNEE REGEN BERG ABER SUED REGION REGEN UNGEFAEHR TAUSEND ZWEIHUNDERT IX SCHNEE,06December_2011_Tuesday_tagesschau_default-5/1
+104,landmark_dev/right_hand_landmarksdev_PHOENIX_104.parquet,Signer04,HEUTE NACHT AB MORGEN NACHMITTAG NORD HARZ REGION STURM,06February_2011_Sunday_tagesschau_default-7/1
+105,landmark_dev/right_hand_landmarksdev_PHOENIX_105.parquet,Signer04,NORD MORGEN SIEBEN REGION FLUSS BIS FUENFZEHN,06February_2011_Sunday_tagesschau_default-11/1
+106,landmark_dev/right_hand_landmarksdev_PHOENIX_106.parquet,Signer01,__ON__ HEUTE NACHT MEHR SCHNEE NORD SUEDOST ABER KALT,06January_2010_Wednesday_heute_default-4/1
+107,landmark_dev/right_hand_landmarksdev_PHOENIX_107.parquet,Signer01,MORGEN BESONDERS NORD REGION UND WEST  REGEN KOENNEN,06January_2010_Wednesday_heute_default-6/1
+108,landmark_dev/right_hand_landmarksdev_PHOENIX_108.parquet,Signer01,DANN WOCHENENDE ENORM WINTER FREITAG SCHNEE REGION,06January_2010_Wednesday_heute_default-12/1
+109,landmark_dev/right_hand_landmarksdev_PHOENIX_109.parquet,Signer01,WIND KOMMEN DANN SCHNEE WITTERUNG JETZT SCHOEN ABEND TSCHUESS __OFF__,06January_2010_Wednesday_heute_default-14/1
+110,landmark_dev/right_hand_landmarksdev_PHOENIX_110.parquet,Signer01,__ON__ GROSSBRITANNIEN REGION FRANKREICH  MITTE EUROPA REGION TIEF KOMMEN SCHNEIEN SCHNEE WENIG NUR IX MEHR WICHTIG,06January_2010_Wednesday_tagesschau_default-4/1
+111,landmark_dev/right_hand_landmarksdev_PHOENIX_111.parquet,Signer09,MORGEN WERT EIFEL ACHTZEHN BIS SECHS ZWANZIG LAND,06July_2009_Monday_tagesschau_default-10/1
+112,landmark_dev/right_hand_landmarksdev_PHOENIX_112.parquet,Signer09,MORGEN IX VERSCHIEDEN SCHAUER GEWITTER SONNE SELTEN,06July_2009_Monday_tagesschau_default-11/1
+113,landmark_dev/right_hand_landmarksdev_PHOENIX_113.parquet,Signer05,__ON__ NORDOST BISSCHEN SCHAUER ABEND AUFLOESEN EIN-PAAR HARMLOS NEBEL DANN KLAR,06July_2010_Tuesday_tagesschau_default-3/1
+114,landmark_dev/right_hand_landmarksdev_PHOENIX_114.parquet,Signer07,TAG EINS ZWANZIG GRAD SYLT IX UND NEUN ZWANZIG GRAD REGION UND REGION,06July_2011_Wednesday_tagesschau_default-9/1
+115,landmark_dev/right_hand_landmarksdev_PHOENIX_115.parquet,Signer04,KOMMEN WEHEN AUFLOESEN  HEUTE OST SCHON TROCKEN NACHMITTAG KOENNEN SONNE KOENNEN,06May_2010_Thursday_heute_default-8/1
+116,landmark_dev/right_hand_landmarksdev_PHOENIX_116.parquet,Signer01,__ON__ MONTAG WEITER SONNE WEST SCHAUER GEWITTER __OFF__,06May_2011_Friday_tagesschau_default-18/1
+117,landmark_dev/right_hand_landmarksdev_PHOENIX_117.parquet,Signer01,__ON__ DEUTSCH LAND SUED MORGEN WARM KOMMEN __OFF__,06October_2009_Tuesday_tagesschau_default-2/1
+118,landmark_dev/right_hand_landmarksdev_PHOENIX_118.parquet,Signer01,__ON__ IN-KOMMEND BLEIBEN LUFT DRUCK HOCH KOMMEN BEDEUTEN NEBEL HIMMEL UND SONNE MISCHUNG,06October_2010_Wednesday_tagesschau_default-2/1
+119,landmark_dev/right_hand_landmarksdev_PHOENIX_119.parquet,Signer01,__ON__ MORGEN DREIZEHN REGION SUEDWEST IX VIER ZWANZIG GRAD PASSEN FAST WIE SOMMER __OFF__,06October_2010_Wednesday_tagesschau_default-13/1
+120,landmark_dev/right_hand_landmarksdev_PHOENIX_120.parquet,Signer01,__ON__ LIEB ZUSCHAUER GUT ABEND __OFF__,06October_2011_Thursday_heute_default-0/1
+121,landmark_dev/right_hand_landmarksdev_PHOENIX_121.parquet,Signer08,__ON__ JETZT WETTER WIE-AUSSEHEN MORGEN SONNTAG SIEBTE OKTOBER __OFF__,06October_2012_Saturday_tagesschau_default-0/1
+122,landmark_dev/right_hand_landmarksdev_PHOENIX_122.parquet,Signer08,__ON__ MORGEN DEUTSCH LAND IX TIEF KOMMEN KUEHL KOMMEN,06October_2012_Saturday_tagesschau_default-2/1
+123,landmark_dev/right_hand_landmarksdev_PHOENIX_123.parquet,Signer08,MITTWOCH TEIL SONNE TEIL WOLKE BLEIBEN TROCKEN __OFF__,06October_2012_Saturday_tagesschau_default-15/1
+124,landmark_dev/right_hand_landmarksdev_PHOENIX_124.parquet,Signer05,__ON__ FREUNDLICH BLEIBEN REGION SUED BISSCHEN SCHAUER SCHOEN ABEND AUSRICHTEN __OFF__,07April_2010_Wednesday_heute_default-13/1
+125,landmark_dev/right_hand_landmarksdev_PHOENIX_125.parquet,Signer05,REGION SUEDOST SONNE NORDWEST UEBERWIEGEND WOLKE IX REGEN SUEDOST AUCH SCHAUER,07April_2010_Wednesday_tagesschau_default-5/1
+126,landmark_dev/right_hand_landmarksdev_PHOENIX_126.parquet,Signer01,__ON__ SUED WEHEN IX WEHEN KOENNEN STURM KOENNEN NORD SCHWER STURM __OFF__,07April_2011_Thursday_tagesschau_default-11/1
+127,landmark_dev/right_hand_landmarksdev_PHOENIX_127.parquet,Signer01,JETZT WETTER MORGEN WETTER WIE-AUSSEHEN __OFF__,07August_2009_Friday_tagesschau_default-0/1
+128,landmark_dev/right_hand_landmarksdev_PHOENIX_128.parquet,Signer07,LEIDER DURCHGEHEND DAUER REGEN NACHT SUED DEUTSCHLAND REGEN AUCH STRASSE DANN GLATTEIS,07December_2010_Tuesday_heute_default-1/1
+129,landmark_dev/right_hand_landmarksdev_PHOENIX_129.parquet,Signer07,NACHT VIELLEICHT P BIS L SITZ ZONE ABER LUFT DOCH FEUCHT NORDWEST,07December_2010_Tuesday_heute_default-3/1
+130,landmark_dev/right_hand_landmarksdev_PHOENIX_130.parquet,Signer07,__ON__ TAG MINUS DREI NORDOST PLUS VIERZEHN GRAD SUED __OFF__,07December_2010_Tuesday_tagesschau_default-10/1
+131,landmark_dev/right_hand_landmarksdev_PHOENIX_131.parquet,Signer08,__ON__ WENN TIEF KOMMEN DAZU REGEN GROSSBRITANNIEN KOMMEN,07December_2011_Wednesday_heute_default-5/1
+132,landmark_dev/right_hand_landmarksdev_PHOENIX_132.parquet,Signer08,NACH MITTAG NORDWEST WOLKE KOENNEN REGEN NACHT WIND KOENNEN STURM,07December_2011_Wednesday_tagesschau_default-7/1
+133,landmark_dev/right_hand_landmarksdev_PHOENIX_133.parquet,Signer07,DANACH HOCH DRUCK KOMMEN FREUNDLICH GUT IN-KOMMEND TAG SONNE AB HEUTE ABEND BISSCHEN LEICHT REGEN,07February_2011_Monday_heute_default-3/1
+134,landmark_dev/right_hand_landmarksdev_PHOENIX_134.parquet,Signer07,MITTE REGION VOR MITTAG MEHR BISSCHEN LEICHT REGEN NACH MITTAG REGEN DURCH,07February_2011_Monday_heute_default-8/1
+135,landmark_dev/right_hand_landmarksdev_PHOENIX_135.parquet,Signer07,NACHT NORD MEHR STURM AUCH KUESTE ORKAN  TAG SCHWACH MAESSIG WEHEN,07February_2011_Monday_tagesschau_default-6/1
+136,landmark_dev/right_hand_landmarksdev_PHOENIX_136.parquet,Signer07,NORD NORDOST FRISCH MAESSIG WEHEN OST STARK WEHEN HEUTE NACHT WERT,07February_2011_Monday_tagesschau_default-7/1
+137,landmark_dev/right_hand_landmarksdev_PHOENIX_137.parquet,Signer09,HEUTE NACHT TEMPERATUR MINUS DREI MINUS SIEBZEHN WENN KLAR TIEF ,07January_2010_Thursday_tagesschau_default-4/1
+138,landmark_dev/right_hand_landmarksdev_PHOENIX_138.parquet,Signer09,TAG MINUS SIEBEN NORD NULL __OFF__,07January_2010_Thursday_tagesschau_default-5/1
+139,landmark_dev/right_hand_landmarksdev_PHOENIX_139.parquet,Signer04,DAZU WARM LUFT TATSAECHLICH WARM HEISS NAECHSTE-WOCHE KUEHL,07June_2010_Monday_heute_default-2/1
+140,landmark_dev/right_hand_landmarksdev_PHOENIX_140.parquet,Signer04,OST SUED BERLIN SUED DEUTSCHLAND VIER ZWANZIG GRAD BIS ACHT ZWANZIG GRAD,07June_2010_Monday_heute_default-6/1
+141,landmark_dev/right_hand_landmarksdev_PHOENIX_141.parquet,Signer08,__ON__ REGION TIEF KOMMEN TAG KLAR STERN SEHEN KOENNEN FROST,07October_2012_Sunday_tagesschau_default-2/1
+142,landmark_dev/right_hand_landmarksdev_PHOENIX_142.parquet,Signer05,REGEN NICHTALP-AUCH ABER KUEHL HEUTE NORDWEST KUEHL LEICHT BODEN FROST,08April_2010_Thursday_heute_default-3/1
+143,landmark_dev/right_hand_landmarksdev_PHOENIX_143.parquet,Signer05,SIEBEN BIS ZEHN ZEHN-STUNDEN IX SONNE HABEN SONST REGION WENIG SONNE,08April_2010_Thursday_heute_default-6/1
+144,landmark_dev/right_hand_landmarksdev_PHOENIX_144.parquet,Signer05,__ON__ LUFT KUEHL REGION TIEF HOCH REGION KOMMEN KUEHL,08April_2010_Thursday_tagesschau_default-2/1
+145,landmark_dev/right_hand_landmarksdev_PHOENIX_145.parquet,Signer02,ANDERE TEMPERATUR GLEICH OST VIER GRAD MILD ACHT BIS NEUN GRAD __OFF__,08December_2009_Tuesday_heute_default-6/1
+146,landmark_dev/right_hand_landmarksdev_PHOENIX_146.parquet,Signer04,__ON__ JETZT WETTER WIE-AUSSEHEN MORGEN DIENSTAG NEUNTE FEBRUAR __OFF__,08February_2010_Monday_tagesschau_default-0/1
+147,landmark_dev/right_hand_landmarksdev_PHOENIX_147.parquet,Signer09,__ON__ WIE-AUSSEHEN IN-KOMMEND SONNTAG OST SPEZIELL SCHNEE NORD BLEIBEN WIND,08January_2010_Friday_tagesschau_default-9/1
+148,landmark_dev/right_hand_landmarksdev_PHOENIX_148.parquet,Signer03,HEUTE NACHT ELF GRAD BERG ALLGAEU  BIS SIEBZEHN FLUSS ,08June_2010_Tuesday_tagesschau_default-9/1
+149,landmark_dev/right_hand_landmarksdev_PHOENIX_149.parquet,Signer01,__ON__ HEUTE NACHT NORD MITTE KLAR STERN KOENNEN SEHEN REGION NEBEL SUED REGEN KOENNEN __OFF__,08October_2009_Thursday_tagesschau_default-5/1
+150,landmark_dev/right_hand_landmarksdev_PHOENIX_150.parquet,Signer01,__ON__ DABEI BLITZ DONNER MORGEN REGION REGEN DABEI NORD DANN AUFLOESEN DANN SONNE DABEI __OFF__,08October_2009_Thursday_tagesschau_default-7/1
+151,landmark_dev/right_hand_landmarksdev_PHOENIX_151.parquet,Signer08,__ON__ JETZT WETTER MORGEN SAMSTAG ZEHNTE APRIL WIE-AUSSEHEN ZEIGEN-BILDSCHIRM __OFF__,09April_2010_Friday_tagesschau_default-0/1
+152,landmark_dev/right_hand_landmarksdev_PHOENIX_152.parquet,Signer08,NACHT NULL BIS ZEHN FLUSS BIS SIEBEN GRAD NORD SIEBEN GRAD,09April_2010_Friday_tagesschau_default-6/1
+153,landmark_dev/right_hand_landmarksdev_PHOENIX_153.parquet,Signer01,__ON__ MORGEN WEST TIEF KOMMEN RICHTUNG OST AUFZIEHEN REGEN GEWITTER STARK __OFF__,09August_2009_Sunday_tagesschau_default-4/1
+154,landmark_dev/right_hand_landmarksdev_PHOENIX_154.parquet,Signer01,__ON__ NORDWEST SPAETER AUFLOESEN JETZT IN-KOMMEND IX REGEN GEWITTER KOENNEN STARK __OFF__,09August_2009_Sunday_tagesschau_default-5/1
+155,landmark_dev/right_hand_landmarksdev_PHOENIX_155.parquet,Signer05,FLUSS UND NIEDER FLUSS SPAETER NACH MITTAG IX DANN HIER,09August_2010_Monday_heute_default-6/1
+156,landmark_dev/right_hand_landmarksdev_PHOENIX_156.parquet,Signer05,AUCH BIS FREITAG WIEDER SINKEN KUEHL  SCHOEN ABEND MACHEN GUT __OFF__,09August_2010_Monday_heute_default-10/1
+157,landmark_dev/right_hand_landmarksdev_PHOENIX_157.parquet,Signer05,NORDWEST SPAETER AUCH WOLKE DANN DABEI GEWITTER SCHAUER __OFF__,09August_2010_Monday_tagesschau_default-8/1
+158,landmark_dev/right_hand_landmarksdev_PHOENIX_158.parquet,Signer05,MITTWOCH SINKEN KUEHLER WECHSELHAFT SONNE WOLKE SCHAUER GEWITTER WEST,09August_2010_Monday_tagesschau_default-13/1
+159,landmark_dev/right_hand_landmarksdev_PHOENIX_159.parquet,Signer02,__ON__ JETZT WIE-AUSSEHEN WETTER MORGEN DONNERSTAG ZEHNTE SEPTEMBER DEZEMBER __OFF__,09December_2009_Wednesday_tagesschau_default-0/1
+160,landmark_dev/right_hand_landmarksdev_PHOENIX_160.parquet,Signer02,__OFF__ NORD REGION SCHWACH MAESSIG WIND __ON__ __OFF__ HEUTE NACHT RHEIN ACHT GRAD ALPEN MINUS SECHS __OFF__,09December_2009_Wednesday_tagesschau_default-5/1
+161,landmark_dev/right_hand_landmarksdev_PHOENIX_161.parquet,Signer03,AUCH OBER FLUSS HOCH FLUSS FROST AUCH SCHNEE KOMMEN BLEIBEN IM-VERLAUF ,09February_2010_Tuesday_tagesschau_default-3/1
+162,landmark_dev/right_hand_landmarksdev_PHOENIX_162.parquet,Signer07,HEUTE NACHT AUFKLAREN MORGEN NACH MITTAG SCHON NORD SEE SCHON BISSCHEN REGEN IX MILD LUFT,09February_2011_Wednesday_heute_default-3/1
+163,landmark_dev/right_hand_landmarksdev_PHOENIX_163.parquet,Signer09,__ON__ JETZT WETTER WIE-AUSSEHEN MORGEN SONNTAG ZEHNTE JANUAR __OFF__,09January_2010_Saturday_tagesschau_default-0/1
+164,landmark_dev/right_hand_landmarksdev_PHOENIX_164.parquet,Signer01,__ON__ MORGEN WETTER WIE-AUSSEHEN FREITAG ZEHNTE JULI __OFF__,09July_2009_Thursday_tagesschau_default-1/1
+165,landmark_dev/right_hand_landmarksdev_PHOENIX_165.parquet,Signer01,__ON__ SAMSTAG SUEDWEST UEBERWIEGEND TROCKEN IX SONNE SCHAUER NORDWEST DANN GEWITTER,09July_2009_Thursday_tagesschau_default-12/1
+166,landmark_dev/right_hand_landmarksdev_PHOENIX_166.parquet,Signer01,__ON__ SUEDOST REGEN STARK KANN __OFF__,09July_2011_Saturday_tagesschau_default-11/1
+167,landmark_dev/right_hand_landmarksdev_PHOENIX_167.parquet,Signer01,__ON__ WIND WEHEN IX STURM GEWITTER KOENNEN AUCH DABEI STURM __OFF__,09July_2011_Saturday_tagesschau_default-15/1
+168,landmark_dev/right_hand_landmarksdev_PHOENIX_168.parquet,Signer08,__ON__ FREITAG BLEIBEN WARM NASS SAMSTAG DANN SUEDWEST REGEN UND KUEHL,09June_2010_Wednesday_heute_default-12/1
+169,landmark_dev/right_hand_landmarksdev_PHOENIX_169.parquet,Signer01,AUCH WIND STARK STROEMEN REGION STURM ORKAN KUESTE KOENNEN __OFF__,09March_2011_Wednesday_heute_default-4/1
+170,landmark_dev/right_hand_landmarksdev_PHOENIX_170.parquet,Signer01,__ON__ OST NORD HOCH KOMMEN NOCH IN-KOMMEND SONNE MEISTENS,09May_2011_Monday_tagesschau_default-2/1
+171,landmark_dev/right_hand_landmarksdev_PHOENIX_171.parquet,Signer01,MORGEN ZWANZIG GRAD NORD BIS ACHT ZWANZIG REGION __OFF__,09May_2011_Monday_tagesschau_default-16/1
+172,landmark_dev/right_hand_landmarksdev_PHOENIX_172.parquet,Signer01,DONNERSTAG SONNE  TEILWEISE REGEN STARK GEWITTER FREITAG RUHIGER MEHR KUEHL __OFF__,09May_2011_Monday_tagesschau_default-20/1
+173,landmark_dev/right_hand_landmarksdev_PHOENIX_173.parquet,Signer01,__ON__ MORGEN WETTER WIE-AUSSEHEN MITTWOCH ZEHNTE NOVEMBER __OFF__,09November_2010_Tuesday_tagesschau_default-0/1
+174,landmark_dev/right_hand_landmarksdev_PHOENIX_174.parquet,Signer08,MORGEN VIER GRAD REGION SECHS BIS ELF GRAD FLUSS BIS ZWOELF GRAD,10April_2010_Saturday_tagesschau_default-8/1
+175,landmark_dev/right_hand_landmarksdev_PHOENIX_175.parquet,Signer01,ABER JETZT OST KOMMEN SCHWUEL LUFT AUFZIEHEN NEU KOMMEN REGEN ABER MEHR ANGENEHM NASE LUFT __OFF__,10August_2009_Monday_heute_default-3/1
+176,landmark_dev/right_hand_landmarksdev_PHOENIX_176.parquet,Signer05,IX WEHEN OST REGION SONNE MEHR WARM MAXIMAL SECHS ZWANZIG SUED MAXIMAL SIEBEN ZWANZIG GRAD,10August_2010_Tuesday_heute_default-9/1
+177,landmark_dev/right_hand_landmarksdev_PHOENIX_177.parquet,Signer05,WETTER  OST SUED HEUTE NACHT TROCKEN AUCH KLAR DANN TEIL REGION SCHAUER MORGEN MEISTENS WOLKE,10August_2010_Tuesday_tagesschau_default-3/1
+178,landmark_dev/right_hand_landmarksdev_PHOENIX_178.parquet,Signer05,IM-VERLAUF IM-VERLAUF TEMPERATUR REGION SUED MEHR FREUNDLICH IX NORD NICHT __OFF__,10August_2011_Wednesday_tagesschau_default-12/1
+179,landmark_dev/right_hand_landmarksdev_PHOENIX_179.parquet,Signer05,__ON__ ORT AUCH SCHAUER GEWITTER KURZ SONNTAG BIS DREISSIG GRAD MOEGLICH WIEDER UNWETTER __OFF__,10August_2011_Wednesday_tagesschau_default-13/1
+180,landmark_dev/right_hand_landmarksdev_PHOENIX_180.parquet,Signer02,__ON__ JETZT WIE-AUSSEHEN  WETTER MORGEN FREITAG ELF DEZEMBER __OFF__,10December_2009_Thursday_tagesschau_default-0/1
+181,landmark_dev/right_hand_landmarksdev_PHOENIX_181.parquet,Signer01,AB MONTAG IN-KOMMEND WETTER WECHSELHAFT WIND AB DIENSTAG STURM KOENNEN TEIL REGEN BERG MOEGLICH SCHNEE,10December_2011_Saturday_tagesschau_default-19/1
+182,landmark_dev/right_hand_landmarksdev_PHOENIX_182.parquet,Signer01,ABER IN-KOMMEND MILD DANN WIEDER SCHNEE GRENZE AUF __OFF__,10December_2011_Saturday_tagesschau_default-20/1
+183,landmark_dev/right_hand_landmarksdev_PHOENIX_183.parquet,Signer03,SONNTAG SCHNEE WENIG NORD REGION MOEGLICH SONNE __OFF__,10February_2010_Wednesday_tagesschau_default-13/1
+184,landmark_dev/right_hand_landmarksdev_PHOENIX_184.parquet,Signer01,__ON__ REGEN DANN MITTWOCH REGEN DONNERSTAG STARK REGEN DANN STEIGEN ,10January_2011_Monday_heute_default-12/1
+185,landmark_dev/right_hand_landmarksdev_PHOENIX_185.parquet,Signer01,__ON__ HEUTE-NACHT TROCKEN IX REGEN MEISTENS REGION __OFF__,10January_2011_Monday_tagesschau_default-7/1
+186,landmark_dev/right_hand_landmarksdev_PHOENIX_186.parquet,Signer01,__ON__ HEUTE-NACHT IX EIN GRAD MINUS SIEBEN REGION __OFF__,10January_2011_Monday_tagesschau_default-17/1
+187,landmark_dev/right_hand_landmarksdev_PHOENIX_187.parquet,Signer05,__ON__ NAECHSTE SONNTAG OST SONNE WOLKE STELLENWEISE REGEN,10July_2009_Friday_tagesschau_default-12/1
+188,landmark_dev/right_hand_landmarksdev_PHOENIX_188.parquet,Signer01,__ON__ SUEDWEST KOMMEN WARM MORGEN SCHON FRANKREICH REGION FUENFZEHN BIS ZWANZIG GRAD WOCHENENDE KOMMEN WARM __OFF__,10March_2011_Thursday_heute_default-3/1
+189,landmark_dev/right_hand_landmarksdev_PHOENIX_189.parquet,Signer01,SONNTAG WEST NORDWEST WIEDER VIEL WOLKE BISSCHEN REGEN OST KOMMEN FREUNDLICH __OFF__,10March_2011_Thursday_tagesschau_default-17/1
+190,landmark_dev/right_hand_landmarksdev_PHOENIX_190.parquet,Signer04,__ON__ DONNERSTAG NEBEL AUFLOESEN WOLKE BEWOELKT HABEN,10November_2009_Tuesday_tagesschau_default-8/1
+191,landmark_dev/right_hand_landmarksdev_PHOENIX_191.parquet,Signer08,BERG DANN SCHNEE SCHNEIEN DANN STURM WEHEN OST FRISCH WIND BERG KOENNEN STURM __OFF__,11April_2010_Sunday_tagesschau_default-5/1
+192,landmark_dev/right_hand_landmarksdev_PHOENIX_192.parquet,Signer08,DRUCK TIEF KOMMEN ES-BEDEUTET VIEL WOLKE UND KOENNEN REGEN GEWITTER KOENNEN,11August_2010_Wednesday_tagesschau_default-2/1
+193,landmark_dev/right_hand_landmarksdev_PHOENIX_193.parquet,Signer08,WIND MAESSIG SCHWACH REGION WENN GEWITTER WIND KOENNEN __OFF__,11August_2010_Wednesday_tagesschau_default-9/1
+194,landmark_dev/right_hand_landmarksdev_PHOENIX_194.parquet,Signer04,FLACH REGEN ALPEN LANG SCHNEE TAG UEBERWIEGEND WOLKE TEIL AUFLOESEN TEIL SCHNEE,11December_2009_Friday_tagesschau_default-3/1
+195,landmark_dev/right_hand_landmarksdev_PHOENIX_195.parquet,Signer08,__ON__ JETZT WETTER MORGEN SONNTAG ZWOELF DEZEMBER WIE-AUSSEHEN ZEIGEN-BILDSCHIRM __OFF__,11December_2010_Saturday_tagesschau_default-0/1
+196,landmark_dev/right_hand_landmarksdev_PHOENIX_196.parquet,Signer08,MORGEN SONNE IX KOMMEN __OFF__,11December_2010_Saturday_tagesschau_default-3/1
+197,landmark_dev/right_hand_landmarksdev_PHOENIX_197.parquet,Signer01,__ON__ WOCHENENDE IM-VERLAUF MONTAG DIENSTAG NORDOST DANN KALT NORDRHEIN-WESTFALEN HEINS BERG KOMMEN HEUTE NACHT REGEN KOENNEN __OFF__,11February_2011_Friday_tagesschau_default-5/1
+198,landmark_dev/right_hand_landmarksdev_PHOENIX_198.parquet,Signer05,AB MITTAG ZWISCHEN KOMMEN WOLKE MEISTENS REGEN,11January_2011_Tuesday_heute_default-9/1
+199,landmark_dev/right_hand_landmarksdev_PHOENIX_199.parquet,Signer01,__ON__ MORGEN WETTER WIE-AUSSEHEN MITTWOCH ZWOELF MAI __OFF__,11May_2010_Tuesday_tagesschau_default-0/1
+200,landmark_dev/right_hand_landmarksdev_PHOENIX_200.parquet,Signer01,TAG DANN NORD REGION REGEN SUEDOST DOCH BISSCHEN FREUNDLICH,11May_2010_Tuesday_tagesschau_default-5/1
+201,landmark_dev/right_hand_landmarksdev_PHOENIX_201.parquet,Signer01,SAMSTAG NORD SUEDOST REGEN ABER GLEICH ZEIT WIND __OFF__,11May_2010_Tuesday_tagesschau_default-15/1
+202,landmark_dev/right_hand_landmarksdev_PHOENIX_202.parquet,Signer07,NORDOST BISSCHEN REGEN NEBEL AUCH NAEHE FLUSS UND ALPEN AUCH MOEGLICH NEBEL,11October_2010_Monday_tagesschau_default-3/1
+203,landmark_dev/right_hand_landmarksdev_PHOENIX_203.parquet,Signer07,NORD INSEL NEUN ZEHN GRAD MINUS ZWEI MITTE BERG,11October_2010_Monday_tagesschau_default-7/1
+204,landmark_dev/right_hand_landmarksdev_PHOENIX_204.parquet,Signer07,TAG ZEHN GRAD BISSCHEN BEWOELKT ACHTZEHN GRAD FLUSS IX,11October_2010_Monday_tagesschau_default-8/1
+205,landmark_dev/right_hand_landmarksdev_PHOENIX_205.parquet,Signer07,FREITAG BISSCHEN VERSCHWINDEN BISSCHEN VERSCHWINDEN NORD BISSCHEN REGEN BISSCHEN STELLENWEISE VIERZEHN GRAD UNGEFAEHR __OFF__,11October_2010_Monday_tagesschau_default-11/1
+206,landmark_dev/right_hand_landmarksdev_PHOENIX_206.parquet,Signer07,NORD OST SUEDOST MOEGLICH LANG REGEN UEBER UNGEFAEHR SECHSHUNDERT METER,12April_2011_Tuesday_tagesschau_default-7/1
+207,landmark_dev/right_hand_landmarksdev_PHOENIX_207.parquet,Signer05,HEUTE NACHT ELF TEMPERATUR SECHSZEHN SIEBZEHN MAXIMAL SIEBZEHN,12August_2009_Wednesday_tagesschau_default-8/1
+208,landmark_dev/right_hand_landmarksdev_PHOENIX_208.parquet,Signer05,IX NACHT WAHRSCHEINLICH LOCKER ORT NEBEL HABEN LANG BLEIBEN,12December_2010_Sunday_tagesschau_default-3/1
+209,landmark_dev/right_hand_landmarksdev_PHOENIX_209.parquet,Signer05,__ON__ TAG VOGEL LAND MINUS ACHT NORD MINUS DREI GRAD WIE-AUSSEHEN IN-KOMMEND,12December_2010_Sunday_tagesschau_default-11/1
+210,landmark_dev/right_hand_landmarksdev_PHOENIX_210.parquet,Signer08,UND DAZU STURM NORD KUESTE STURM __OFF__,12December_2011_Monday_heute_default-6/1
+211,landmark_dev/right_hand_landmarksdev_PHOENIX_211.parquet,Signer08,REGION SPAETER WEST KOMMEN REGEN,12December_2011_Monday_tagesschau_default-6/1
+212,landmark_dev/right_hand_landmarksdev_PHOENIX_212.parquet,Signer08,MORGEN DREI GRAD REGION BAYERN WALD IX ZWOELF KOELN __OFF__,12December_2011_Monday_tagesschau_default-13/1
+213,landmark_dev/right_hand_landmarksdev_PHOENIX_213.parquet,Signer08,__ON__ MITTWOCH WIND KOENNEN STURM REGEN DONNERSTAG TEMPERATUR VERRINGERN BERG WIEDER SCHNEE,12December_2011_Monday_tagesschau_default-14/1
+214,landmark_dev/right_hand_landmarksdev_PHOENIX_214.parquet,Signer09,MORGEN MAL SONNE SPEZIELL ALPEN MAL BISSCHEN SCHNEE NORD MEHR STARK SCHNEE __OFF__,12February_2010_Friday_tagesschau_default-4/1
+215,landmark_dev/right_hand_landmarksdev_PHOENIX_215.parquet,Signer03,IM-VERLAUF SCHNEE UMKEHREN REGEN ABER EIS REGEN VORSICHT STRASSE GLATT MOEGLICH ,12January_2010_Tuesday_heute_default-6/1
+216,landmark_dev/right_hand_landmarksdev_PHOENIX_216.parquet,Signer03,MORGEN TAG IM-VERLAUF SUEDWEST REGION BLEIBEN SO MOEGLICH SCHNEE ODER REGEN ODER,12January_2010_Tuesday_heute_default-7/1
+217,landmark_dev/right_hand_landmarksdev_PHOENIX_217.parquet,Signer05,DEUTSCH LAND ZWISCHEN ZWANZIG BIS SECHZIG LITER EIN QUADRATMETER ENORM VIEL,12January_2011_Wednesday_heute_default-3/1
+218,landmark_dev/right_hand_landmarksdev_PHOENIX_218.parquet,Signer05,HEUTE NACHT SIEBEN SONST REGION SECHS ZWISCHEN EIN,12January_2011_Wednesday_tagesschau_default-9/1
+219,landmark_dev/right_hand_landmarksdev_PHOENIX_219.parquet,Signer01,__ON__ MORGEN SONNE WOLKE WECHSELHAFT NORD REGION SONNE OFT IX SCHAUER SUEDWEST ABEND GEWITTER KOENNEN __OFF__,12July_2009_Sunday_tagesschau_default-8/1
+220,landmark_dev/right_hand_landmarksdev_PHOENIX_220.parquet,Signer01,__ON__ DEUTSCHLAND ZWEI TEIL REGEN SCHWUEL FRISCH KUEHL,12July_2010_Monday_heute_default-2/1
+221,landmark_dev/right_hand_landmarksdev_PHOENIX_221.parquet,Signer01,NACH MITTAG OST REGEN GEWITTER BISSCHEN SUED ABER KUEHL REGEN MEHR AUSHALTEN KOENNEN,12July_2010_Monday_heute_default-11/1
+222,landmark_dev/right_hand_landmarksdev_PHOENIX_222.parquet,Signer01,__ON__ GEWITTER ENORM SUEDWEST BIS-MORGEN NACHT KOMMEN,12July_2011_Tuesday_heute_default-6/1
+223,landmark_dev/right_hand_landmarksdev_PHOENIX_223.parquet,Signer01,__ON__ NORD TEILWEISE REGEN WEST LANGSAM VERSCHWINDEN WIND KUESTE AUCH __OFF__,12July_2011_Tuesday_heute_default-16/1
+224,landmark_dev/right_hand_landmarksdev_PHOENIX_224.parquet,Signer07,ORT REGEN OST SUEDOST MEHR FREUNDLICH SCHOEN __OFF__,12March_2011_Saturday_tagesschau_default-5/1
+225,landmark_dev/right_hand_landmarksdev_PHOENIX_225.parquet,Signer07,__ON__ TAG TEIL NUR EIN GRAD NORD SEE SONST MILD OST SUEDOST SECHSZEHN GRAD,12March_2011_Saturday_tagesschau_default-11/1
+226,landmark_dev/right_hand_landmarksdev_PHOENIX_226.parquet,Signer01,TAG DANN SUED SUEDOST REGEN NACH MITTAG IX AUCH GEWITTER __OFF__,12May_2010_Wednesday_tagesschau_default-4/1
+227,landmark_dev/right_hand_landmarksdev_PHOENIX_227.parquet,Signer05,NORD MORGEN BEWOELKT REGION REGEN SUED MEISTENS TROCKEN,12November_2009_Thursday_tagesschau_default-4/1
+228,landmark_dev/right_hand_landmarksdev_PHOENIX_228.parquet,Signer05,__ON__ IM-VERLAUF MITTE AUCH WOLKE AUFLOESEN WIND SCHWACH MAESSIG,12November_2009_Thursday_tagesschau_default-6/1
+229,landmark_dev/right_hand_landmarksdev_PHOENIX_229.parquet,Signer01,__ON__ WEST WIND SCHWACH IX WIND __OFF__,12October_2009_Monday_tagesschau_default-7/1
+230,landmark_dev/right_hand_landmarksdev_PHOENIX_230.parquet,Signer04,DESWEGEN NAECHSTE WOCHE KOMMEN IM-VERLAUF NACHT NORD WOLKE BISSCHEN REGEN,12September_2009_Saturday_tagesschau_default-3/1
+231,landmark_dev/right_hand_landmarksdev_PHOENIX_231.parquet,Signer04,TAG SUED FREUNDLICH UNTEN KOMMEN MEHR REGEN TROPFEN,12September_2009_Saturday_tagesschau_default-4/1
+232,landmark_dev/right_hand_landmarksdev_PHOENIX_232.parquet,Signer01,__ON__ IN-KOMMEND WETTER WECHSELHAFT DIENSTAG MITTWOCH NORD WEHEN KOENNEN,12September_2010_Sunday_tagesschau_default-17/1
+233,landmark_dev/right_hand_landmarksdev_PHOENIX_233.parquet,Signer07,MEER AUCH SCHNEE REST REGION SONNE WOLKE NUR ORT BISSCHEN REGEN __OFF__,13April_2011_Wednesday_tagesschau_default-7/1
+234,landmark_dev/right_hand_landmarksdev_PHOENIX_234.parquet,Signer05,WIND SCHWACH MAESSIG IX WEHEN __OFF__,13August_2009_Thursday_tagesschau_default-7/1
+235,landmark_dev/right_hand_landmarksdev_PHOENIX_235.parquet,Signer08,SPEZIELL SUEDOST KOENNEN ORT UNWETTER REGEN HAGEL STURM KOENNEN NORMAL WIND LEICHT MAESSIG KOMMEN WEHEN,13August_2011_Saturday_tagesschau_default-6/1
+236,landmark_dev/right_hand_landmarksdev_PHOENIX_236.parquet,Signer04,SUEDOST SCHNEE REGION TROCKEN MINUS ACHT BIS PLUS EINS ZWISCHEN __OFF__,13December_2009_Sunday_tagesschau_default-10/1
+237,landmark_dev/right_hand_landmarksdev_PHOENIX_237.parquet,Signer09,__ON__ WETTER WIE-AUSSEHEN MORGEN SONNTAG VIERZEHN FEBRUAR __OFF__,13February_2010_Saturday_tagesschau_default-0/1
+238,landmark_dev/right_hand_landmarksdev_PHOENIX_238.parquet,Signer09,WIE-AUSSEHEN IN-KOMMEND __OFF__ __ON__ MONTAG MAL SONNE MAL WOLKE WEST BISSCHEN SCHNEE,13February_2010_Saturday_tagesschau_default-7/1
+239,landmark_dev/right_hand_landmarksdev_PHOENIX_239.parquet,Signer05,REGION SONNE SCHAUER GEWITTER SUED IX ENORM HAGEL STARK REGEN STURM,13July_2009_Monday_tagesschau_default-5/1
+240,landmark_dev/right_hand_landmarksdev_PHOENIX_240.parquet,Signer01,OST DRUCKFLAECHE STARK BESONDERS IN-KOMMEND KOENNEN GEWITTER REGEN __OFF__,13July_2010_Tuesday_tagesschau_default-15/1
+241,landmark_dev/right_hand_landmarksdev_PHOENIX_241.parquet,Signer05,SUED IX SUED AUCH REGEN SONST MAL WOLKE SONNE MAL SONNE SCHAUER WAHRSCHEINLICH,13July_2011_Wednesday_tagesschau_default-9/1
+242,landmark_dev/right_hand_landmarksdev_PHOENIX_242.parquet,Signer07,DANACH MITTE EUROPA AUCH WOLKE TIEF WOLKE KOMMEN REGEN REGION MOEGLICH,13March_2011_Sunday_tagesschau_default-3/1
+243,landmark_dev/right_hand_landmarksdev_PHOENIX_243.parquet,Signer03,__ON__ JETZT WETTER MORGEN FREITAG  VIERZEHN MAI __OFF__,13May_2010_Thursday_tagesschau_default-0/1
+244,landmark_dev/right_hand_landmarksdev_PHOENIX_244.parquet,Signer03,SAMSTAG NORD AUCH REGEN REGION MEHR SONNE ,13May_2010_Thursday_tagesschau_default-9/1
+245,landmark_dev/right_hand_landmarksdev_PHOENIX_245.parquet,Signer09,__ON__ HEUTE NACHT DREIZEHN BIS DREI GRAD ALPEN WAHRSCHEINLICH ZWISCHEN NULL MORGEN ZEHN E IX FLUSS FUENFZEHN __OFF__,13November_2009_Friday_tagesschau_default-7/1
+246,landmark_dev/right_hand_landmarksdev_PHOENIX_246.parquet,Signer05,__ON__ GUT ABEND LIEB ZUSCHAUER IN-KOMMEND FRUEHLING WETTER MORGEN WARM WOHER WARM ,14April_2010_Wednesday_heute_default-0/1
+247,landmark_dev/right_hand_landmarksdev_PHOENIX_247.parquet,Signer05,SUEDWEST SAARLAND MILD ABER UEBERWIEGEND BEWOELKT REGEN,14April_2010_Wednesday_heute_default-4/1
+248,landmark_dev/right_hand_landmarksdev_PHOENIX_248.parquet,Signer05,AUCH NORD BISSCHEN REGEN SCHOEN ABEND WUENSCHEN MACHEN GUT WUENSCHEN __OFF__,14April_2010_Wednesday_heute_default-10/1
+249,landmark_dev/right_hand_landmarksdev_PHOENIX_249.parquet,Signer05,FUENFZEHN NORDWEST MORGEN DAENEMARK IX ZWANZIG MAXIMAL DREISSIG GRAD,14August_2009_Friday_tagesschau_default-6/1
+250,landmark_dev/right_hand_landmarksdev_PHOENIX_250.parquet,Signer01,IN-KOMMEND NAECHSTE SAMSTAG REGION GEWITTER SONNTAG RUHIG VERSCHWINDEN __OFF__,14July_2010_Wednesday_tagesschau_default-17/1
+251,landmark_dev/right_hand_landmarksdev_PHOENIX_251.parquet,Signer08,__ON__  WETTER  HEUTE MEHR RUHIG,14July_2011_Thursday_heute_default-1/1
+252,landmark_dev/right_hand_landmarksdev_PHOENIX_252.parquet,Signer01,__ON__ FREITAG AUCH WAHRSCHEINLICH REGEN SUEDOST SCHNEE KOENNEN BESONDERS NORDWEST WIND STARK,14October_2009_Wednesday_tagesschau_default-11/1
+253,landmark_dev/right_hand_landmarksdev_PHOENIX_253.parquet,Signer07,REGEN MITTE SUED NOCH KLAR SUED NACHT NOCH BISSCHEN TRUEB NEBEL,14October_2010_Thursday_heute_default-4/1
+254,landmark_dev/right_hand_landmarksdev_PHOENIX_254.parquet,Signer07,__ON__ SAMSTAG REGEN BERG REGEN TEILWEISE UMWANDELN SCHNEE SCHNEIEN SCHOEN WO MEER REGION,14October_2010_Thursday_tagesschau_default-9/1
+255,landmark_dev/right_hand_landmarksdev_PHOENIX_255.parquet,Signer05,__ON__ IX WIND MOEGLICH MAESSIG FRISCH SONST REGION WIND SCHWACH VERSCHIEDEN WEHEN,15December_2009_Tuesday_tagesschau_default-8/1
+256,landmark_dev/right_hand_landmarksdev_PHOENIX_256.parquet,Signer05,__ON__ JETZT WETTER WIE-AUSSEHEN MORGEN DONNERSTAG SECHSZEHNTE DEZEMBER __OFF__,15December_2010_Wednesday_tagesschau_default-0/1
+257,landmark_dev/right_hand_landmarksdev_PHOENIX_257.parquet,Signer05,GLATT GEFAHR DANN STARK SCHNEE SCHNEIEN KOMMEN,15December_2010_Wednesday_tagesschau_default-6/1
+258,landmark_dev/right_hand_landmarksdev_PHOENIX_258.parquet,Signer01,__ON__ NORDWEST SCHNEE BISSCHEN KOENNEN __OFF__,15February_2010_Monday_tagesschau_default-10/1
+259,landmark_dev/right_hand_landmarksdev_PHOENIX_259.parquet,Signer08,__ON__ ICH ORIENTIEREN ZWEIFEL WARM KALT UNSICHER ,15February_2011_Tuesday_heute_default-2/1
+260,landmark_dev/right_hand_landmarksdev_PHOENIX_260.parquet,Signer08,__ON__ KOENNEN REGEN GLATT KALT KOENNEN,15February_2011_Tuesday_heute_default-10/1
+261,landmark_dev/right_hand_landmarksdev_PHOENIX_261.parquet,Signer08,__ON__ JETZT WETTER WIE-AUSSEHEN MORGEN MITTWOCH SECHSZEHN FEBRUAR ZEIGEN-BILDSCHIRM __OFF__,15February_2011_Tuesday_tagesschau_default-0/1
+262,landmark_dev/right_hand_landmarksdev_PHOENIX_262.parquet,Signer08,IX MORGEN NEUNZEHN GRAD REGION SIEBEN ZWANZIG GRAD __OFF__,15July_2011_Friday_tagesschau_default-16/1
+263,landmark_dev/right_hand_landmarksdev_PHOENIX_263.parquet,Signer03,__ON__ MORGEN OST REGION ZWEI GRAD REGION DREIZEHN GRAD __OFF__,15October_2009_Thursday_tagesschau_default-10/1
+264,landmark_dev/right_hand_landmarksdev_PHOENIX_264.parquet,Signer05,IM-VERLAUF FRUEH HERBST HEUTE NACHT HEFTIG REGEN KUESTE GEWITTER,15September_2010_Wednesday_heute_default-3/1
+265,landmark_dev/right_hand_landmarksdev_PHOENIX_265.parquet,Signer05,SAMSTAG NORD SCHAUER REGION FREUNDLICH SUED IM-VERLAUF REGEN,15September_2010_Wednesday_tagesschau_default-13/1
+266,landmark_dev/right_hand_landmarksdev_PHOENIX_266.parquet,Signer05,SONNTAG ALPEN IX AUCH REGEN NORD SCHAUER MITTE MEHR FREUNDLICH SONNE __OFF__,15September_2010_Wednesday_tagesschau_default-14/1
+267,landmark_dev/right_hand_landmarksdev_PHOENIX_267.parquet,Signer03,__ON__ HOCH KOMMEN OST KOMMEN MORGEN DEUTSCH LAND VIEL SONNE TROCKEN  __OFF__,16April_2010_Friday_tagesschau_default-2/1
+268,landmark_dev/right_hand_landmarksdev_PHOENIX_268.parquet,Signer05,__ON__ FREITAG MEHR WOLKE NICHT-SONNE NORDOST SCHNEE SCHNEIEN,16December_2009_Wednesday_tagesschau_default-12/1
+269,landmark_dev/right_hand_landmarksdev_PHOENIX_269.parquet,Signer08,__ON__ KOMMEN IX KALT KOMMEN IX SCHNEE GLATT KOENNEN,16December_2011_Friday_tagesschau_default-5/1
+270,landmark_dev/right_hand_landmarksdev_PHOENIX_270.parquet,Signer08,__ON__ MORGEN NORDOST NOCH REGEN SCHNEE REGEN BERG IX NOCH SCHNEE DURCHGEHEND,16December_2011_Friday_tagesschau_default-8/1
+271,landmark_dev/right_hand_landmarksdev_PHOENIX_271.parquet,Signer01,__ON__ OST WOLKE BEWOELKT FREUNDLICH __OFF__,16February_2010_Tuesday_tagesschau_default-13/1
+272,landmark_dev/right_hand_landmarksdev_PHOENIX_272.parquet,Signer05,WEST TEIL SCHNEE SCHNEIEN TEIL REGEN HEUTE NACHT MOEGLICH REGEN MIT EIS GLATT GEFAHR,16January_2010_Saturday_tagesschau_default-4/1
+273,landmark_dev/right_hand_landmarksdev_PHOENIX_273.parquet,Signer05,NACHT KOMMEN REGEN STARK OST SUEDOST KLAR SEHEN STERN KOENNEN,16July_2011_Saturday_tagesschau_default-5/1
+274,landmark_dev/right_hand_landmarksdev_PHOENIX_274.parquet,Signer08,__ON__ NORD HEUTE NACHT KLAR HIMMEL STERN KOENNEN SEHEN SUEDWEST REGEN KOENNEN NEBEL BEREICH __OFF__,16May_2010_Sunday_tagesschau_default-5/1
+275,landmark_dev/right_hand_landmarksdev_PHOENIX_275.parquet,Signer05,UNGEMUETLICH SUED BESSER ALS NORD  HEUTE NACHT NORD MITTE,16September_2010_Thursday_tagesschau_default-3/1
+276,landmark_dev/right_hand_landmarksdev_PHOENIX_276.parquet,Signer05,__ON__ HEUTE NACHT ZWISCHEN FUENF ZWISCHEN TAG MITTE BERG DREIZEHN IX NEUNZEHN GRAD __OFF__,16September_2010_Thursday_tagesschau_default-8/1
+277,landmark_dev/right_hand_landmarksdev_PHOENIX_277.parquet,Signer03,__ON__ LUFT DRUCK HOCH DESHALB MORGEN SONNE UEBERALL ,17April_2010_Saturday_tagesschau_default-2/1
+278,landmark_dev/right_hand_landmarksdev_PHOENIX_278.parquet,Signer04,__ON__ HEUTE REGION HOCH KOMMEN ABER SONNE IX SCHWIERIG SCHEINEN,17April_2011_Sunday_tagesschau_default-2/1
+279,landmark_dev/right_hand_landmarksdev_PHOENIX_279.parquet,Signer07,__ON__ WETTER SO KNAPP VERAENDERN MEISTENS BLEIBEN WOLKE TROCKEN WETTER,17February_2011_Thursday_tagesschau_default-2/1
+280,landmark_dev/right_hand_landmarksdev_PHOENIX_280.parquet,Signer07,HIMMEL HEUTE FAST ALLE WOLKE BESONDERS WEST MEHR BISSCHEN KLAR OST MEHR REGEN SCHNEE,17February_2011_Thursday_tagesschau_default-4/1
+281,landmark_dev/right_hand_landmarksdev_PHOENIX_281.parquet,Signer07,MOEGLICH BISSCHEN ORT SONNE MOEGLICH MORGEN BISSCHEN REGEN ODER SCHNEE,17February_2011_Thursday_tagesschau_default-11/1
+282,landmark_dev/right_hand_landmarksdev_PHOENIX_282.parquet,Signer05,__ON__ TAG HAUPTSAECHLICH WOLKE NEBEL DANN TEIL SCHNEE SCHNEIEN REGEN SUEDWEST BISSCHEN SONNE __OFF__,17January_2010_Sunday_tagesschau_default-7/1
+283,landmark_dev/right_hand_landmarksdev_PHOENIX_283.parquet,Signer07,BISSCHEN DABEI AUCH REGEN SUED NOCH BISSCHEN NOCH WETTER GUT WETTER,17January_2011_Monday_tagesschau_default-3/1
+284,landmark_dev/right_hand_landmarksdev_PHOENIX_284.parquet,Signer07,REST REGION MEHR MEISTENS WOLKE BESONDERS KUESTE IX MEHR REGEN,17January_2011_Monday_tagesschau_default-5/1
+285,landmark_dev/right_hand_landmarksdev_PHOENIX_285.parquet,Signer08,NORD AUCH REGEN DABEI SUEDWEST BLEIBEN TROCKEN __OFF__,17May_2010_Monday_tagesschau_default-7/1
+286,landmark_dev/right_hand_landmarksdev_PHOENIX_286.parquet,Signer08,__ON__ WIE-AUSSEHEN IN-KOMMEND MITTWOCH BLEIBEN WOLKE IX KOENNEN REGEN WEST KOENNEN SONNE __OFF__,17May_2010_Monday_tagesschau_default-12/1
+287,landmark_dev/right_hand_landmarksdev_PHOENIX_287.parquet,Signer04,__ON__ TIEF REGION SCHWACH MORGEN SOLL EINFLUSS OST REGION SUED,17October_2009_Saturday_tagesschau_default-2/1
+288,landmark_dev/right_hand_landmarksdev_PHOENIX_288.parquet,Signer04,__ON__ WIND SCHWACH WEHEN __OFF__,17October_2009_Saturday_tagesschau_default-7/1
+289,landmark_dev/right_hand_landmarksdev_PHOENIX_289.parquet,Signer04,__ON__ MITTWOCH WEST WOLKE ACHT BIS SECHSZEHN NEBEL KUEHL __OFF__,17October_2009_Saturday_tagesschau_default-12/1
+290,landmark_dev/right_hand_landmarksdev_PHOENIX_290.parquet,Signer01,__ON__ HOCH REGION BIS FREITAG MEISTENS WETTER FREUNDLICH SONNE TEMPERATUR STEIGEN __OFF__,18April_2011_Monday_tagesschau_default-4/1
+291,landmark_dev/right_hand_landmarksdev_PHOENIX_291.parquet,Signer04,IX MORGEN LANG REGEN TEIL GEFRIEREN,18February_2010_Thursday_tagesschau_default-5/1
+292,landmark_dev/right_hand_landmarksdev_PHOENIX_292.parquet,Signer08,SAMSTAG MEHR SONNE WOLKE KAUM __OFF__,18May_2010_Tuesday_tagesschau_default-12/1
+293,landmark_dev/right_hand_landmarksdev_PHOENIX_293.parquet,Signer05,WENN KLAR MOEGLICH NEBEL NORD MORGEN UEBERWIEGEND WOLKE TROPFEN SPAETER VERSCHWINDEN,18November_2009_Wednesday_tagesschau_default-6/1
+294,landmark_dev/right_hand_landmarksdev_PHOENIX_294.parquet,Signer05,WENN NEBEL NICHT-HABEN FREUNDLICH OST NACHT GEFAHR WIND,18November_2009_Wednesday_tagesschau_default-7/1
+295,landmark_dev/right_hand_landmarksdev_PHOENIX_295.parquet,Signer04,__ON__ WOLKE REGION SCHAFFEN NUR NORDWEST KOMMEN __OFF__,18November_2011_Friday_tagesschau_default-4/1
+296,landmark_dev/right_hand_landmarksdev_PHOENIX_296.parquet,Signer04,REGEN SCHNEE GRAUPEL BIS VIERHUNDERT FUENFHUNDERT METER NUR SUED MEHR FREUNDLICH JETZT WUENSCHEN SCHOEN ABEND __OFF__,18October_2010_Monday_heute_default-8/1
+297,landmark_dev/right_hand_landmarksdev_PHOENIX_297.parquet,Signer07,MITTWOCH ALLE GUT SONNE SCHOEN SECHSZEHN BIS FUENF ZWANZIG GRAD __OFF__,18September_2010_Saturday_tagesschau_default-10/1
+298,landmark_dev/right_hand_landmarksdev_PHOENIX_298.parquet,Signer08,__ON__ MITTE EUROPA VIEL REGEN NICHT NEIN __OFF__,19April_2010_Monday_heute_default-5/1
+299,landmark_dev/right_hand_landmarksdev_PHOENIX_299.parquet,Signer08,__ON__ SUED MEHR RUHIG FREUNDLICH BISSCHEN MILD __OFF__,19April_2010_Monday_heute_default-15/1
+300,landmark_dev/right_hand_landmarksdev_PHOENIX_300.parquet,Signer01,__ON__ IN-KOMMEND MEHR WIE TATSAECHLICH SPUEREN PASSEN SOMMER WEST,19April_2011_Tuesday_heute_default-16/1
+301,landmark_dev/right_hand_landmarksdev_PHOENIX_301.parquet,Signer03,__ON__ SAMSTAG HAUPTSAECHLICH SONNE NORD BISSCHEN REGEN,19August_2010_Thursday_tagesschau_default-12/1
+302,landmark_dev/right_hand_landmarksdev_PHOENIX_302.parquet,Signer09,ANDERE FREUNDLICH SONNE NAECHSTE WOCHE MILD ABER WECHSELHAFT __OFF__,19February_2010_Friday_tagesschau_default-9/1
+303,landmark_dev/right_hand_landmarksdev_PHOENIX_303.parquet,Signer07,IN-KOMMEND TAG BLEIBEN KALT MITTE EUROPA UNGEFAEHR NULL ZWISCHEN MITTE MEER ZEHN BIS FUENFZEHN,19January_2011_Wednesday_heute_default-2/1
+304,landmark_dev/right_hand_landmarksdev_PHOENIX_304.parquet,Signer07,BESONDERS WEST SCHWARZ WALD REGION BERG AUCH E+R+Z BERG IX AUCH BISSCHEN SCHNEE,19January_2011_Wednesday_heute_default-6/1
+305,landmark_dev/right_hand_landmarksdev_PHOENIX_305.parquet,Signer07,__ON__ JETZT WETTER VORAUS INFORMIEREN MORGEN DONNERSTAG ZWANZIG JANUAR __OFF__,19January_2011_Wednesday_tagesschau_default-0/1
+306,landmark_dev/right_hand_landmarksdev_PHOENIX_306.parquet,Signer09,__OFF__ MONTAG MEISTENS TIEF DRUCK REGION LUFT MEER LUFT KOMMEN ABER SUEDWEST TATSAECHLICH HOCH DRUCK REGION,19July_2009_Sunday_tagesschau_default-2/1
+307,landmark_dev/right_hand_landmarksdev_PHOENIX_307.parquet,Signer04,MORGEN FRUEH VERSCHWINDEN LANGSAM SCHNELL NORDOST BISSCHEN WOLKE BLEIBEN TROCKEN,19March_2011_Saturday_tagesschau_default-6/1
+308,landmark_dev/right_hand_landmarksdev_PHOENIX_308.parquet,Signer04,TAG BESSER WARM STEIGEN KUESTE BISSCHEN WOLKE ABER  NICHT-REGEN NICHT-HABEN  __OFF__,19March_2011_Saturday_tagesschau_default-11/1
+309,landmark_dev/right_hand_landmarksdev_PHOENIX_309.parquet,Signer03,WEST FLUSS WEST REGION NACH MITTAG BESSER SONNE MOEGLICH ,19May_2010_Wednesday_heute_default-6/1
+310,landmark_dev/right_hand_landmarksdev_PHOENIX_310.parquet,Signer09,__ON__ JETZT WETTER WIE-AUSSEHEN MORGEN __OFF__,19October_2009_Monday_tagesschau_default-0/1
+311,landmark_dev/right_hand_landmarksdev_PHOENIX_311.parquet,Signer05,__ON__ SUEDWEST DEUTSCH LAND BISSCHEN FEUCHT KOMMEN IX MOEGLICH SCHAUER GEWITTER WAHRSCHEINLICH,20April_2011_Wednesday_tagesschau_default-5/1
+312,landmark_dev/right_hand_landmarksdev_PHOENIX_312.parquet,Signer01,NORD KALT KOMMEN ZONE DAZWISCHEN __OFF__,20December_2010_Monday_tagesschau_default-3/1
+313,landmark_dev/right_hand_landmarksdev_PHOENIX_313.parquet,Signer01,__ON__ NORD FLUSS SUED TROCKEN IX ZONE KOENNEN REGEN TEILWEISE SCHNEE REGEN UMWANDELN GEFRIEREN __OFF__,20December_2010_Monday_tagesschau_default-8/1
+314,landmark_dev/right_hand_landmarksdev_PHOENIX_314.parquet,Signer01,__ON__ NEUN GRAD REGION MINUS ACHT NORDOST __OFF__,20December_2010_Monday_tagesschau_default-14/1
+315,landmark_dev/right_hand_landmarksdev_PHOENIX_315.parquet,Signer04,__ON__ WETTER WIE-AUSSEHEN MORGEN MONTAG EINS ZWANZIG FEBRUAR __OFF__,20February_2011_Sunday_tagesschau_default-0/1
+316,landmark_dev/right_hand_landmarksdev_PHOENIX_316.parquet,Signer04,REGION WOLKE KLAR TROCKEN AM-TAG REGION SCHNEE FLUSS REGEN,20February_2011_Sunday_tagesschau_default-3/1
+317,landmark_dev/right_hand_landmarksdev_PHOENIX_317.parquet,Signer01,__ON__ DAZU OST WEHEN __OFF__,20January_2010_Wednesday_heute_default-12/1
+318,landmark_dev/right_hand_landmarksdev_PHOENIX_318.parquet,Signer03,JETZT IM-MOMENT  NACHT NOCH WARM IX MORGEN FRUEH MEHR KUEHL,20July_2010_Tuesday_heute_default-4/1
+319,landmark_dev/right_hand_landmarksdev_PHOENIX_319.parquet,Signer03,__ON__ HOCH OST KOMMEN MORGEN SOLL EINFLUSS DEUTSCH LAND,20July_2010_Tuesday_tagesschau_default-2/1
+320,landmark_dev/right_hand_landmarksdev_PHOENIX_320.parquet,Signer03,__ON__ HEUTE NACHT RUHRGEBIET ZWANZIG GRAD MITTE BERG MOEGLICH ELF GRAD,20July_2010_Tuesday_tagesschau_default-8/1
+321,landmark_dev/right_hand_landmarksdev_PHOENIX_321.parquet,Signer07,EINS EINHALB HALB STUNDE SPAETER ANFANG REGEN DANN WETTER WECHSELHAFT,20June_2011_Monday_heute_default-3/1
+322,landmark_dev/right_hand_landmarksdev_PHOENIX_322.parquet,Signer07,MITTE ZONE NICHT-MOEGEN STARK WOLKE ODER REGEN,20June_2011_Monday_heute_default-11/1
+323,landmark_dev/right_hand_landmarksdev_PHOENIX_323.parquet,Signer07,BIS MORGEN MITTE DEUTSCH LAND KOMMEN TAG IX REGEN AUCH KOMMEN OST,20June_2011_Monday_tagesschau_default-5/1
+324,landmark_dev/right_hand_landmarksdev_PHOENIX_324.parquet,Signer01,MORGEN WEST VERBREITEN AB MITTAG NOCH-NICHT MITTE SUED REGION MEHR GEWITTER KOENNEN,20March_2010_Saturday_heute_default-6/1
+325,landmark_dev/right_hand_landmarksdev_PHOENIX_325.parquet,Signer01,__ON__  IN-KOMMEND MEHR KUEHL WENIGER WIND STARK BERG REGION REGEN,20March_2010_Saturday_heute_default-13/1
+326,landmark_dev/right_hand_landmarksdev_PHOENIX_326.parquet,Signer03,__ON__ JETZT WETTER MORGEN FREITAG EINS ZWANZIG MAI __OFF__,20May_2010_Thursday_tagesschau_default-0/1
+327,landmark_dev/right_hand_landmarksdev_PHOENIX_327.parquet,Signer04,AB MONTAG DAS-IST-ES DEUTSCH EINFLUSS REGEN IX WIND UND SCHNEE STUFENWEISE GRENZE,20November_2010_Saturday_tagesschau_default-3/1
+328,landmark_dev/right_hand_landmarksdev_PHOENIX_328.parquet,Signer04,MISCHUNG NEBEL HOCH NEBEL SONNE BLEIBEN,20November_2011_Sunday_tagesschau_default-3/1
+329,landmark_dev/right_hand_landmarksdev_PHOENIX_329.parquet,Signer09,__ON__ JETZT WIE-AUSSEHEN WETTER MORGEN MITTWOCH EINS ZWANZIG OKTOBER __OFF__,20October_2009_Tuesday_tagesschau_default-0/1
+330,landmark_dev/right_hand_landmarksdev_PHOENIX_330.parquet,Signer09,ABEND FLUSS WEST REGION MOEGLICH REGEN WIND WEHEN MAESSIG WEHEN,20October_2009_Tuesday_tagesschau_default-6/1
+331,landmark_dev/right_hand_landmarksdev_PHOENIX_331.parquet,Signer05,__ON__ HALLO GUT ABEND WINTER SCHON HABEN MITTE BERG SCHON WEISS BODEN,20October_2010_Wednesday_heute_default-0/1
+332,landmark_dev/right_hand_landmarksdev_PHOENIX_332.parquet,Signer05,MEISTENS IX REGION SCHAUER IX SUED DANN RUHIG MEHR TROCKEN AUCH BISSCHEN SONNE __OFF__,20October_2010_Wednesday_heute_default-8/1
+333,landmark_dev/right_hand_landmarksdev_PHOENIX_333.parquet,Signer01,DABEI NORD MEHR MILD ABER TAGSUEBER IX MEHR KUEHL __OFF__,20September_2010_Monday_heute_default-5/1
+334,landmark_dev/right_hand_landmarksdev_PHOENIX_334.parquet,Signer01,REGION STERN KOENNEN SEHEN BESONDERS NAEHE FLUSS NEBEL FELD,20September_2010_Monday_tagesschau_default-5/1
+335,landmark_dev/right_hand_landmarksdev_PHOENIX_335.parquet,Signer08,TEIL WENN NORD ZEHN GRAD EUROPA VERBREITEN WARM ZWANZIG BIS FUENF ZWANZIG GRAD,21April_2010_Wednesday_heute_default-1/1
+336,landmark_dev/right_hand_landmarksdev_PHOENIX_336.parquet,Signer08,__ON__ WOCHE WARM  AUCH SONNE JEDEN-TAG GRAD STEIGEN BIS ZWEIZWANZIG,21April_2010_Wednesday_heute_default-12/1
+337,landmark_dev/right_hand_landmarksdev_PHOENIX_337.parquet,Signer08,__ON__ SCHOEN ABEND WUENSCHEN __OFF__,21April_2010_Wednesday_heute_default-15/1
+338,landmark_dev/right_hand_landmarksdev_PHOENIX_338.parquet,Signer08,SUEDWEST SOWIESO STERN KOENNEN SEHEN MITTE REGION WOLKE MORGEN KOENNEN REGEN GEWITTER __OFF__,21August_2011_Sunday_tagesschau_default-6/1
+339,landmark_dev/right_hand_landmarksdev_PHOENIX_339.parquet,Signer04,NORDWEST REGEN ODER SCHNEE VORSICHT GLATT KOENNEN,21January_2011_Friday_tagesschau_default-5/1
+340,landmark_dev/right_hand_landmarksdev_PHOENIX_340.parquet,Signer04,DIESE WARNUNG UNWETTER DEUTSCH WETTER DIENST HAUPTSAECHLICH NORD MITTE REGEN GEWITTER,21July_2009_Tuesday_tagesschau_default-2/1
+341,landmark_dev/right_hand_landmarksdev_PHOENIX_341.parquet,Signer07,SUEDOST SCHOEN REST NICHT-REGION SCHON REGEN,21June_2011_Tuesday_tagesschau_default-5/1
+342,landmark_dev/right_hand_landmarksdev_PHOENIX_342.parquet,Signer04,KOMMEN LOCH ABER TROTZDEM SCHAUER SUEDOST SCHWACH WEHEN MAESSIG,21November_2009_Saturday_tagesschau_default-6/1
+343,landmark_dev/right_hand_landmarksdev_PHOENIX_343.parquet,Signer04,NAECHSTE WOCHE WECHSELHAFT WOLKE TEIL REGEN AUCH WIND,21November_2009_Saturday_tagesschau_default-9/1
+344,landmark_dev/right_hand_landmarksdev_PHOENIX_344.parquet,Signer07,SUED NEBEL REGION KOENNEN LANG NEBEL WENN SONNE HABEN DANN SCHAFFEN ELF GRAD NEBEL NUR DREI GRAD __OFF__,21November_2011_Monday_heute_default-10/1
+345,landmark_dev/right_hand_landmarksdev_PHOENIX_345.parquet,Signer07,FREITAG KOENNEN SCHAUEN BISSCHEN MEHR REGEN WIEDER HABEN,21November_2011_Monday_heute_default-13/1
+346,landmark_dev/right_hand_landmarksdev_PHOENIX_346.parquet,Signer04,FRANKREICH KOMMEN WOLKE OST NIEDERSACHSEN BAYERN SUEDWEST REGEN,21October_2009_Wednesday_tagesschau_default-4/1
+347,landmark_dev/right_hand_landmarksdev_PHOENIX_347.parquet,Signer03,MORGEN SONNE UEBERALL KUESTE REGION WOLKE MOEGLICH  MOEGLICH REGEN NICHT-VIEL ,22April_2010_Thursday_heute_default-9/1
+348,landmark_dev/right_hand_landmarksdev_PHOENIX_348.parquet,Signer03,TROCKEN ENORM ABEND WUENSCHEN __OFF__,22April_2010_Thursday_heute_default-14/1
+349,landmark_dev/right_hand_landmarksdev_PHOENIX_349.parquet,Signer03,__ON__ HEUTE NACHT KLAR HIMMEL  STERN KOENNEN SEHEN MORGEN HAUPTSAECHLICH,22April_2010_Thursday_tagesschau_default-5/1
+350,landmark_dev/right_hand_landmarksdev_PHOENIX_350.parquet,Signer05,__ON__ WIND MAESSIG FRISCH KUESTE IX STARK WENN GEWITTER IX DANN STURM MOEGLICH __OFF__,22August_2010_Sunday_tagesschau_default-7/1
+351,landmark_dev/right_hand_landmarksdev_PHOENIX_351.parquet,Signer01,KUESTE STARK WEHEN STURM SCHNEE WEHEN KOENNEN __OFF__,22December_2010_Wednesday_tagesschau_default-7/1
+352,landmark_dev/right_hand_landmarksdev_PHOENIX_352.parquet,Signer04,TAG VIEL WOLKE NEBEL BLEIBEN TROCKEN IX SONNE MOEGLICH,22January_2010_Friday_tagesschau_default-3/1
+353,landmark_dev/right_hand_landmarksdev_PHOENIX_353.parquet,Signer04,REGION TIEF KOMMEN WOLKE,22January_2011_Saturday_tagesschau_default-3/1
+354,landmark_dev/right_hand_landmarksdev_PHOENIX_354.parquet,Signer04,REGION MEISTENS WOLKE BISSCHEN REGEN SCHNEE WIND SCHWACH WEHEN __OFF__,22January_2011_Saturday_tagesschau_default-7/1
+355,landmark_dev/right_hand_landmarksdev_PHOENIX_355.parquet,Signer04,REGION MORGEN SECHS BERG ALLGAEU KALT MINUS VIER,22January_2011_Saturday_tagesschau_default-10/1
+356,landmark_dev/right_hand_landmarksdev_PHOENIX_356.parquet,Signer05,__ON__ JETZT WETTER MORGEN FREITAG DREI ZWANZIG JULI __OFF__,22July_2010_Thursday_tagesschau_default-0/1
+357,landmark_dev/right_hand_landmarksdev_PHOENIX_357.parquet,Signer05,__ON__ SKANDINAVIEN NORD WOLKE TIEF AUCH DEUTSCHLAND REGION KOMMEN NOCH UNWETTER MOEGLICH,22July_2010_Thursday_tagesschau_default-2/1
+358,landmark_dev/right_hand_landmarksdev_PHOENIX_358.parquet,Signer07,SO GEWITTER VON HOCH IX REGION NORD EUROPA REGION WARM LUFT KOMMEN KUEHL LUFT WEST KOMMEN,22June_2011_Wednesday_heute_default-2/1
+359,landmark_dev/right_hand_landmarksdev_PHOENIX_359.parquet,Signer07,SO STARK REGEN REGION MORGEN AUCH TEIL BLEIBEN REGEN SUEDOST REGEN TEIL GEWITTER HABEN,22June_2011_Wednesday_heute_default-5/1
+360,landmark_dev/right_hand_landmarksdev_PHOENIX_360.parquet,Signer08,__ON__ NACHT WOLKE KOMMEN BLEIBEN KLAR HIMMEL STERN SEHEN,22March_2011_Tuesday_tagesschau_default-5/1
+361,landmark_dev/right_hand_landmarksdev_PHOENIX_361.parquet,Signer04,__ON__ NACHT TEMPERATUR VIER BIS NEUN MORGEN DREI BIS NEUN HOCH BIS ZEHN BIS VIERZEHN __OFF__,22November_2009_Sunday_tagesschau_default-10/1
+362,landmark_dev/right_hand_landmarksdev_PHOENIX_362.parquet,Signer01,BESONDERS MITTE REGION SUED DANN KALT __OFF__,22November_2010_Monday_heute_default-5/1
+363,landmark_dev/right_hand_landmarksdev_PHOENIX_363.parquet,Signer01,__ON__ NORDWEST SONNE WAHRSCHEINLICH DABEI DANN SCHNEE REGEN,22November_2010_Monday_heute_default-9/1
+364,landmark_dev/right_hand_landmarksdev_PHOENIX_364.parquet,Signer07,__ON__ MORGEN WIEDER WETTER RUHIG FREUNDLICH WETTER HOCH DRUCK,22November_2011_Tuesday_tagesschau_default-2/1
+365,landmark_dev/right_hand_landmarksdev_PHOENIX_365.parquet,Signer04,__ON__ NACHT MINUS DREI BIS PLUS VIER NORD PLUS FUENF IX MORGEN ZEHN BIS FUENFZEHN REGION SECHSZEHN BIS DREI ZWANZIG __OFF__,23April_2010_Friday_tagesschau_default-7/1
+366,landmark_dev/right_hand_landmarksdev_PHOENIX_366.parquet,Signer08,FRISCH MORGEN ANGENEHM DEUTSCH LAND ABER IM-MOMENT DANN VIEL REGEN REGION OST REGION OST LANGSAM,23August_2010_Monday_heute_default-2/1
+367,landmark_dev/right_hand_landmarksdev_PHOENIX_367.parquet,Signer08,WOLKE DABEI HEUTE NACHT KOENNEN REGEN KOMMEN SUEDOST REGEN DAZU KOENNEN GEWITTER,23August_2010_Monday_tagesschau_default-3/1
+368,landmark_dev/right_hand_landmarksdev_PHOENIX_368.parquet,Signer08,KOENNEN REGEN WIND KOENNEN SUED MEHR FREUNDLICH __OFF__,23August_2010_Monday_tagesschau_default-12/1
+369,landmark_dev/right_hand_landmarksdev_PHOENIX_369.parquet,Signer07,__ON__ JETZT WETTER VORAUSSAGE MORGEN FREITAG VIER ZWANZIG DEZEMBER __OFF__,23December_2010_Thursday_tagesschau_default-0/1
+370,landmark_dev/right_hand_landmarksdev_PHOENIX_370.parquet,Signer05,ABER UEBER FUENFHUNDERT SECHSHUNDERT METER SCHNEE SCHNEIEN SCHOEN ABEND MACHEN EUCH GUT __OFF__,23February_2011_Wednesday_heute_default-12/1
+371,landmark_dev/right_hand_landmarksdev_PHOENIX_371.parquet,Signer05,IX OST UND SUEDOST TAG SONNE SONST REGION BISSCHEN SCHNEE SCHNEIEN ODER REGEN MIT FROST,23February_2011_Wednesday_tagesschau_default-5/1
+372,landmark_dev/right_hand_landmarksdev_PHOENIX_372.parquet,Signer04,AUCH DIENSTAG WOLKE MEHR REGEN ODER SCHNEE,23January_2011_Sunday_tagesschau_default-11/1
+373,landmark_dev/right_hand_landmarksdev_PHOENIX_373.parquet,Signer07,WEST REGEN REGION HEUTE NACHT VIEL WOLKE BISSCHEN IX REGEN SCHNEE BESONDERS BERG IX,23January_2013_Wednesday_tagesschau_default-2/1
+374,landmark_dev/right_hand_landmarksdev_PHOENIX_374.parquet,Signer04,SPAETER REGEN UEBERALL REGION,23July_2011_Saturday_tagesschau_default-5/1
+375,landmark_dev/right_hand_landmarksdev_PHOENIX_375.parquet,Signer05,__ON__ NORDOST WIEDER WOLKE ABER SONST NUR BISSCHEN WOLKE __OFF__,23March_2011_Wednesday_tagesschau_default-8/1
+376,landmark_dev/right_hand_landmarksdev_PHOENIX_376.parquet,Signer08,DANN REGEN VERSCHWINDEN WIND STURM WEST KOMMEN,23May_2011_Monday_heute_default-5/1
+377,landmark_dev/right_hand_landmarksdev_PHOENIX_377.parquet,Signer08,DANN ABEND KOENNEN BISSCHEN REGEN GEWITTER BERG IX __OFF__,23May_2011_Monday_heute_default-7/1
+378,landmark_dev/right_hand_landmarksdev_PHOENIX_378.parquet,Signer08,REGEN GEWITTER VIEL REGEN NICHT-HABEN SCHOEN ABEND TSCHUESS MACHEN TSCHUESS __OFF__,23May_2011_Monday_heute_default-11/1
+379,landmark_dev/right_hand_landmarksdev_PHOENIX_379.parquet,Signer08,IX NORD TIEF KOMMEN WOLKE KOMMEN __OFF__,23May_2011_Monday_tagesschau_default-3/1
+380,landmark_dev/right_hand_landmarksdev_PHOENIX_380.parquet,Signer05,__ON__ JETZT WIE-AUSSEHEN WETTER MORGEN DONNERSTAG VIER ZWANZIG NOVEMBER __OFF__,23November_2011_Wednesday_tagesschau_default-0/1
+381,landmark_dev/right_hand_landmarksdev_PHOENIX_381.parquet,Signer05,__ON__ NORDWEST WOLKE MANCHMAL SONNE BISSCHEN IX S+H IX REGEN __OFF__,23November_2011_Wednesday_tagesschau_default-6/1
+382,landmark_dev/right_hand_landmarksdev_PHOENIX_382.parquet,Signer05,__ON__ DONNERSTAG DANN WIEDER MEHR WIND IX WIND KOMMEN ANFANG IX REGEN KOMMEN GLEICH,23November_2011_Wednesday_tagesschau_default-11/1
+383,landmark_dev/right_hand_landmarksdev_PHOENIX_383.parquet,Signer01,__ON__ WOCHE DANN HOCH KOMMEN WARM MITTE NORD HEUTE NACHT BISSCHEN REGEN IX TAG __OFF__,23September_2009_Wednesday_tagesschau_default-5/1
+384,landmark_dev/right_hand_landmarksdev_PHOENIX_384.parquet,Signer01,__ON__ SONNTAG SCHEINEN ALPEN AUCH SCHAUER MOEGLICH __OFF__,23September_2009_Wednesday_tagesschau_default-13/1
+385,landmark_dev/right_hand_landmarksdev_PHOENIX_385.parquet,Signer01,TEILWEISE BAYERN WEST AUS FUENF ZWANZIG VIERZEHN BIS ACHTZEHN GRAD ,23September_2010_Thursday_heute_default-6/1
+386,landmark_dev/right_hand_landmarksdev_PHOENIX_386.parquet,Signer01,__ON__ REGION BIS ABEND TROCKEN __OFF__,23September_2010_Thursday_tagesschau_default-10/1
+387,landmark_dev/right_hand_landmarksdev_PHOENIX_387.parquet,Signer01,__ON__ SONNTAG AUCH WIE-IMMER WIE-IMMER __OFF__,23September_2010_Thursday_tagesschau_default-18/1
+388,landmark_dev/right_hand_landmarksdev_PHOENIX_388.parquet,Signer04,__ON__ MORGEN AUCH HOCH LUFT VIEL SONNE DANN DAZU WARM,24April_2010_Saturday_tagesschau_default-2/1
+389,landmark_dev/right_hand_landmarksdev_PHOENIX_389.parquet,Signer09,MILD STERN KLAR SEHEN KOENNEN SOMMER NACHT TYPISCH,24August_2009_Monday_heute_default-3/1
+390,landmark_dev/right_hand_landmarksdev_PHOENIX_390.parquet,Signer07,__ON__ TIEF SUED SUEDOST HOCH LUFT DRUCK NORDWEST BEWOELKT LUFT KALT LUFT KOMMEN,24December_2010_Friday_tagesschau_default-2/1
+391,landmark_dev/right_hand_landmarksdev_PHOENIX_391.parquet,Signer07,MEHR SCHNEE SCHNEIEN MOEGLICH SCHNEIEN AUCH MOEGLICH WETTER WARNUNG VON DEUTSCH WETTER DIENST,24December_2010_Friday_tagesschau_default-3/1
+392,landmark_dev/right_hand_landmarksdev_PHOENIX_392.parquet,Signer04,HAUPTSAECHLICH NORD TROCKEN REGION SCHNEE SUEDWEST DIESE REGEN DABEI,24January_2010_Sunday_tagesschau_default-4/1
+393,landmark_dev/right_hand_landmarksdev_PHOENIX_393.parquet,Signer04,__ON__ SUED SCHWACH WEHEN IX MAESSIG WEHEN __OFF__,24January_2010_Sunday_tagesschau_default-6/1
+394,landmark_dev/right_hand_landmarksdev_PHOENIX_394.parquet,Signer01,MORGEN MEISTENS ZWEI BIS SECHS GRAD ABER BAYERN REGION BISSCHEN KALT MITTE REGION AUCH __OFF__,24January_2011_Monday_heute_default-7/1
+395,landmark_dev/right_hand_landmarksdev_PHOENIX_395.parquet,Signer01,REGEN REGION UND IX TEILWEISE AUCH SONNE DABEI,24January_2011_Monday_heute_default-11/1
+396,landmark_dev/right_hand_landmarksdev_PHOENIX_396.parquet,Signer01, MITTWOCH SONNE NICHT NUR WEST SCHNEE REGEN MISCHUNG DANN BEISEITE,24January_2011_Monday_heute_default-12/1
+397,landmark_dev/right_hand_landmarksdev_PHOENIX_397.parquet,Signer01,__ON__ NORD EUROPA TIEF KOMMEN __OFF__,24January_2011_Monday_tagesschau_default-2/1
+398,landmark_dev/right_hand_landmarksdev_PHOENIX_398.parquet,Signer01,__ON__ WIND WEHEN FRISCH KOMMEN HOCH STURM __OFF__,24January_2011_Monday_tagesschau_default-15/1
+399,landmark_dev/right_hand_landmarksdev_PHOENIX_399.parquet,Signer07,__ON__ ENDLICH SONNE ABER DEUTSCH KAUM NORD DEUTSCH BISSCHEN SONNE DANN FLUSS REGION AUCH SONNE,24January_2013_Thursday_heute_default-2/1
+400,landmark_dev/right_hand_landmarksdev_PHOENIX_400.parquet,Signer07,ABER MILD MEHR MEER IX ODER SUEDWEST MINUS EIN MINUS ZWEI GRAD UNGEFAEHR MEHR,24January_2013_Thursday_heute_default-11/1
+401,landmark_dev/right_hand_landmarksdev_PHOENIX_401.parquet,Signer07,OST SUEDOST UEBERWIEGEND WOLKE BISSCHEN SCHNEE REST WOLKE IX MEHR STERN KOENNEN SEHEN KLAR HIMMEL,24January_2013_Thursday_tagesschau_default-3/1
+402,landmark_dev/right_hand_landmarksdev_PHOENIX_402.parquet,Signer07,HEUTE NACHT KLAR HIMMEL KOENNEN MINUS FUENFZEHN GRAD NORDOST WEHEN MINUS DREI GRAD,24January_2013_Thursday_tagesschau_default-8/1
+403,landmark_dev/right_hand_landmarksdev_PHOENIX_403.parquet,Signer04,OST SUEDOST ZONE HEUTE NACHT STARK BEWOELKT,24July_2010_Saturday_tagesschau_default-4/1
+404,landmark_dev/right_hand_landmarksdev_PHOENIX_404.parquet,Signer04,DARUNTER TAG IM-VERLAUF MEHR WARM TROTZDEM BLEIBEN SCHAUER GEWITTER NOCH,24July_2011_Sunday_tagesschau_default-3/1
+405,landmark_dev/right_hand_landmarksdev_PHOENIX_405.parquet,Signer05,IX MORGEN IM-VERLAUF IX ANFANG FREUNDLICH ABER WOLKE KOMMEN OST,24June_2011_Friday_tagesschau_default-7/1
+406,landmark_dev/right_hand_landmarksdev_PHOENIX_406.parquet,Signer05,NORDOST IX NICHT-VIEL NICHT-VIEL NICHT-WOLKE NICHT-VIEL NICHT-WOLKE ABER SCHAUER  __OFF__,24June_2011_Friday_tagesschau_default-9/1
+407,landmark_dev/right_hand_landmarksdev_PHOENIX_407.parquet,Signer05,__ON__ MORGEN IX WEHEN IX NORD FRISCH WIND,24June_2011_Friday_tagesschau_default-10/1
+408,landmark_dev/right_hand_landmarksdev_PHOENIX_408.parquet,Signer05,NACHT TEIL WOLKE TEIL KLAR SCHAUER GEWITTER MORGEN MAL SONNE WOLKE BESONDERS NACH MITTAG,24May_2010_Monday_tagesschau_default-4/1
+409,landmark_dev/right_hand_landmarksdev_PHOENIX_409.parquet,Signer05,NORD NUR WOLKE FROST SUED DRESDEN IX REGION BERG NULL MINUS SECHS,24November_2011_Thursday_heute_default-4/1
+410,landmark_dev/right_hand_landmarksdev_PHOENIX_410.parquet,Signer01,__ON__ SUEDOST REGEN VIEL IX REGEN KOENNEN BESONDERS NORD TAG DANN WEST FREUNDLICH SONNE DABEI __OFF__,24October_2009_Saturday_tagesschau_default-7/1
+411,landmark_dev/right_hand_landmarksdev_PHOENIX_411.parquet,Signer05,ZWEI TIEF EUROPA IX WIE-AUSSEHEN SEHEN ZEIGEN-BILDSCHIRM KOMMEN,24September_2009_Thursday_heute_default-1/1
+412,landmark_dev/right_hand_landmarksdev_PHOENIX_412.parquet,Signer01,AB DIENSTAG LUFT HOCH HOEHER TEMPERATUR HOEHER MEHR FREUNDLICH HEUTE NACHT WEST KOMMEN,25April_2010_Sunday_tagesschau_default-2/1
+413,landmark_dev/right_hand_landmarksdev_PHOENIX_413.parquet,Signer01,DONNERSTAG BIS SECHS ZWANZIG GRAD VIEL SONNE WEST MEHR SCHAUER GEWITTER __OFF__,25April_2010_Sunday_tagesschau_default-11/1
+414,landmark_dev/right_hand_landmarksdev_PHOENIX_414.parquet,Signer01,__ON__ HEUTE-NACHT STURM KOENNEN MORGEN SCHWACH MAESSIG ZEIGEN-BILDSCHIRM WIND __OFF__,25August_2009_Tuesday_tagesschau_default-7/1
+415,landmark_dev/right_hand_landmarksdev_PHOENIX_415.parquet,Signer01,__ON__ MORGEN EINS ZWANZIG REGION BIS ACHT ZWANZIG UNTEN REGION __OFF__,25August_2009_Tuesday_tagesschau_default-11/1
+416,landmark_dev/right_hand_landmarksdev_PHOENIX_416.parquet,Signer03,__ON__ HEUTE NACHT SCHON WEST REGEN LANGSAM KOMMEN FLUSS  REGION NOCH,25August_2010_Wednesday_heute_default-3/1
+417,landmark_dev/right_hand_landmarksdev_PHOENIX_417.parquet,Signer03,WIE HERBST SCHOEN ABEND WUENSCHEN __OFF__,25August_2010_Wednesday_heute_default-9/1
+418,landmark_dev/right_hand_landmarksdev_PHOENIX_418.parquet,Signer08,DIENSTAG RUHIG TROCKEN WETTER __OFF__,25February_2011_Friday_tagesschau_default-15/1
+419,landmark_dev/right_hand_landmarksdev_PHOENIX_419.parquet,Signer03,HEUTE NACHT NORD REGION KLAR HIMMEL ENORM KALT  __OFF__,25January_2010_Monday_heute_default-5/1
+420,landmark_dev/right_hand_landmarksdev_PHOENIX_420.parquet,Signer03,TEIL SONNE SUED REGION MEHR WOLKE  FLUSS ALPEN MOEGLICH SCHNEE ABER IM-VERLAUF WENIGER __OFF__,25January_2010_Monday_heute_default-10/1
+421,landmark_dev/right_hand_landmarksdev_PHOENIX_421.parquet,Signer03,__ON__ UND JETZT WETTER MORGEN DIENSTAG SECHS ZWANZIG JANUAR __OFF__,25January_2010_Monday_tagesschau_default-0/1
+422,landmark_dev/right_hand_landmarksdev_PHOENIX_422.parquet,Signer03,__ON__ WIND NORD WEHEN WENIG UNTEN STARK WEHEN HEUTE NACHT,25January_2010_Monday_tagesschau_default-8/1
+423,landmark_dev/right_hand_landmarksdev_PHOENIX_423.parquet,Signer06,__ON__ REGION LUFT TIEF KOMMEN DANN SONNTAG SCHNEE REGEN GEFRIEREN __OFF__,25January_2013_Friday_tagesschau_default-4/1
+424,landmark_dev/right_hand_landmarksdev_PHOENIX_424.parquet,Signer06,MORGEN TEIL UEBERWIEGEND WOLKE TEIL SONNE OST UEBERWIEGEND MEHR SONNE DABEI,25January_2013_Friday_tagesschau_default-7/1
+425,landmark_dev/right_hand_landmarksdev_PHOENIX_425.parquet,Signer01,__ON__ FUENFZEHN GRAD REGION SAUER LAND NUR SECHS GRAD REGION SIEBEN ZWANZIG BIS ACHT ZWANZIG GRAD,25June_2010_Friday_tagesschau_default-13/1
+426,landmark_dev/right_hand_landmarksdev_PHOENIX_426.parquet,Signer01,__ON__ MONTAG SONNE WARM WEITER __OFF__,25June_2010_Friday_tagesschau_default-18/1
+427,landmark_dev/right_hand_landmarksdev_PHOENIX_427.parquet,Signer05,HEUTE NACHT FLUSS VIERZEHN GRAD NORD MAXIMAL NULL,25May_2010_Tuesday_tagesschau_default-8/1
+428,landmark_dev/right_hand_landmarksdev_PHOENIX_428.parquet,Signer05,__ON__ TAG SUEDOST SCHNEE SCHNEIEN FLACH AUCH SCHNEE SCHNEIEN NORDWEST SCHNEE SCHAUER VERSCHWINDEN __OFF__,25November_2010_Thursday_tagesschau_default-5/1
+429,landmark_dev/right_hand_landmarksdev_PHOENIX_429.parquet,Signer05,SONNTAG IX WOLKE TEIL FREUNDLICH TROCKEN MINUS FUENF ZWISCHEN MAXIMAL ZWEI GRAD,25November_2010_Thursday_tagesschau_default-12/1
+430,landmark_dev/right_hand_landmarksdev_PHOENIX_430.parquet,Signer01,AUCH  DAZU WIND KOMMEN SONST SCHNEE WENIGER,25October_2010_Monday_heute_default-4/1
+431,landmark_dev/right_hand_landmarksdev_PHOENIX_431.parquet,Signer01,__ON__ MITTWOCH REGEN KOENNEN NORDWEST WAHRSCHEINLICH NORD STARK WIND __OFF__,25October_2010_Monday_tagesschau_default-17/1
+432,landmark_dev/right_hand_landmarksdev_PHOENIX_432.parquet,Signer04,__ON__ JETZT WETTER WIE-AUSSEHEN MORGEN SONNTAG SECHS ZWANZIG SEPTEMBER __OFF__,25September_2010_Saturday_tagesschau_default-0/1
+433,landmark_dev/right_hand_landmarksdev_PHOENIX_433.parquet,Signer01,__ON__ SUEDWEST KLAR MORGEN VIER BIS NEUN GRAD TAG NORD VIEL WOLKE ,26April_2010_Monday_heute_default-7/1
+434,landmark_dev/right_hand_landmarksdev_PHOENIX_434.parquet,Signer01,__ON__ TEMPERATUR IN-KOMMEND MEHR __OFF__,26April_2010_Monday_tagesschau_default-4/1
+435,landmark_dev/right_hand_landmarksdev_PHOENIX_435.parquet,Signer01,__ON__ TAG BESONDERS NORDOST ALPEN SCHAUER KOENNEN DANN SONNE WOLKE WECHSELHAFT SUEDWEST HAUPTSAECHLICH SONNE __OFF__,26April_2010_Monday_tagesschau_default-7/1
+436,landmark_dev/right_hand_landmarksdev_PHOENIX_436.parquet,Signer01,__ON__ ABER REGEN WENIG __OFF__,26August_2009_Wednesday_tagesschau_default-4/1
+437,landmark_dev/right_hand_landmarksdev_PHOENIX_437.parquet,Signer01,__ON__ FREITAG SUEDOST SONNE  FREITAG DANN MEHR WOLKE REGEN KOENNEN __OFF__,26August_2009_Wednesday_tagesschau_default-14/1
+438,landmark_dev/right_hand_landmarksdev_PHOENIX_438.parquet,Signer03,__ON__ JETZT WETTER MORGEN FREITAG SIEBEN ZWANZIG AUGUST __OFF__,26August_2010_Thursday_tagesschau_default-0/1
+439,landmark_dev/right_hand_landmarksdev_PHOENIX_439.parquet,Signer03,MOEGLICH REGEN ODER REGEN ODER GEWITTER __OFF__,26August_2010_Thursday_tagesschau_default-12/1
+440,landmark_dev/right_hand_landmarksdev_PHOENIX_440.parquet,Signer03,__ON__ SCHOEN ABEND WUENSCHEN __OFF__,26January_2010_Tuesday_heute_default-10/1
+441,landmark_dev/right_hand_landmarksdev_PHOENIX_441.parquet,Signer03,UND IM-VERLAUF UEBERALL WECHSELHAFT MOEGLICH SCHNEE SUED REGION NACHT WOLKE,26January_2010_Tuesday_tagesschau_default-2/1
+442,landmark_dev/right_hand_landmarksdev_PHOENIX_442.parquet,Signer05,__ON__ WENN HIMMEL KLAR DOCH MEISTENS KALT FROST,26January_2013_Saturday_tagesschau_default-11/1
+443,landmark_dev/right_hand_landmarksdev_PHOENIX_443.parquet,Signer04,__ON__ JETZT WETTER WIE-AUSSEHEN MORGEN DIENSTAG SIEBEN ZWANZIG JULI __OFF__,26July_2010_Monday_tagesschau_default-0/1
+444,landmark_dev/right_hand_landmarksdev_PHOENIX_444.parquet,Signer08,BERG IX DURCHGEHEND REGEN DIENSTAG UEBERALL VIEL SONNE WOLKE LOCKER TROCKEN,26March_2011_Saturday_tagesschau_default-12/1
+445,landmark_dev/right_hand_landmarksdev_PHOENIX_445.parquet,Signer05,ABER NACHT IM-VERLAUF VERSCHWINDEN MORGEN REGEN NORDOST SCHNELL VERSCHWINDEN SCHON SCHAUER,26May_2010_Wednesday_heute_default-2/1
+446,landmark_dev/right_hand_landmarksdev_PHOENIX_446.parquet,Signer07,NACHT SEE SCHWER STURM MORGEN ORKAN HABEN DESHALB FRISCH MAESSIG WEHEN,26November_2011_Saturday_tagesschau_default-7/1
+447,landmark_dev/right_hand_landmarksdev_PHOENIX_447.parquet,Signer01,__ON__ MORGEN NORD WEST REGEN REGION NEBEL WOLKE HIMMEL __OFF__,26October_2010_Tuesday_tagesschau_default-6/1
+448,landmark_dev/right_hand_landmarksdev_PHOENIX_448.parquet,Signer01,__ON__ KUESTE WIND HABEN __OFF__,26October_2010_Tuesday_tagesschau_default-18/1
+449,landmark_dev/right_hand_landmarksdev_PHOENIX_449.parquet,Signer05,__ON__ JETZT WETTER WIE-AUSSEHEN MORGEN SONNTAG SIEBEN ZWANZIG SEPTEMBER __OFF__,26September_2009_Saturday_tagesschau_default-0/1
+450,landmark_dev/right_hand_landmarksdev_PHOENIX_450.parquet,Signer05,__ON__ MEER IX BIS SCHWARZ MEER HOCH KOMMEN MORGEN MEHR SCHWACH ABER DEUTSCH LAND VIEL SONNE NUR NORD BISSCHEN WOLKE __OFF__,26September_2009_Saturday_tagesschau_default-2/1
+451,landmark_dev/right_hand_landmarksdev_PHOENIX_451.parquet,Signer05,HEUTE NACHT NORD ZWOELF LAND IX VIER GRAD MORGEN TAG ACHTZEHN MAXIMAL DREI ZWANZIG GRAD,26September_2009_Saturday_tagesschau_default-8/1
+452,landmark_dev/right_hand_landmarksdev_PHOENIX_452.parquet,Signer01,__ON__ NACHT KLAR HIMMEL DANN WOLKE KOMMEN __OFF__,27April_2010_Tuesday_tagesschau_default-6/1
+453,landmark_dev/right_hand_landmarksdev_PHOENIX_453.parquet,Signer01,__ON__ NORD SUEDOST AUCH KOENNEN REGEN GEWITTER DABEI __OFF__,27August_2009_Thursday_tagesschau_default-7/1
+454,landmark_dev/right_hand_landmarksdev_PHOENIX_454.parquet,Signer01,SONNTAG UEBERWIEGEND SONNE  NORD SCHAUER MONTAG AEHNLICH WETTER ABER BISSCHEN MEHR WARM __OFF__,27August_2009_Thursday_tagesschau_default-13/1
+455,landmark_dev/right_hand_landmarksdev_PHOENIX_455.parquet,Signer08,SPEZIELL VOR MITTAG WEST FLUSS WEST SACHSEN MITTE ZWISCHEN SONNE __OFF__,27February_2011_Sunday_tagesschau_default-7/1
+456,landmark_dev/right_hand_landmarksdev_PHOENIX_456.parquet,Signer01,__ON__ HEUTE NACHT PLUS DREI REGION NULL ZWISCHEN LEICHT FROST MINUS EIN MINUS ZWEI,27January_2013_Sunday_tagesschau_default-8/1
+457,landmark_dev/right_hand_landmarksdev_PHOENIX_457.parquet,Signer08,__ON__ LIEB ZUSCHAUER GUT ABEND __OFF__,27July_2010_Tuesday_heute_default-0/1
+458,landmark_dev/right_hand_landmarksdev_PHOENIX_458.parquet,Signer08,__ON__ UND IN-KOMMEND LETZTE REGEN SUED VERSCHWINDEN IX NEU REGEN KOMMEN,27July_2010_Tuesday_heute_default-3/1
+459,landmark_dev/right_hand_landmarksdev_PHOENIX_459.parquet,Signer03,DIENSTAG MITTWOCH TIEF KOMMEN MOEGLICH  REGEN GEWITTER __OFF__,27June_2010_Sunday_tagesschau_default-3/1
+460,landmark_dev/right_hand_landmarksdev_PHOENIX_460.parquet,Signer03,DIENSTAG OST REGION SONNE REGION ABWECHSELN SONNE WOLKE WEST NORDWEST MOEGLICH REGEN GEWITTER STARK,27June_2010_Sunday_tagesschau_default-10/1
+461,landmark_dev/right_hand_landmarksdev_PHOENIX_461.parquet,Signer08,__ON__ MORGEN A HOCH KOMMEN REGION FREUNDLICH ABER,27May_2011_Friday_tagesschau_default-2/1
+462,landmark_dev/right_hand_landmarksdev_PHOENIX_462.parquet,Signer08,__ON__ NORD NORDWEST DANACH VERDICHTEN WOLKE VERDICHTEN ANFANG REGEN __OFF__,27May_2011_Friday_tagesschau_default-7/1
+463,landmark_dev/right_hand_landmarksdev_PHOENIX_463.parquet,Signer08,__ON__ DIENSTAG KOMMEN REGEN KOENNEN GEWITTER UNWETTER REGEN HAGEL KRAEFTIG WIND KOENNEN __OFF__,27May_2011_Friday_tagesschau_default-16/1
+464,landmark_dev/right_hand_landmarksdev_PHOENIX_464.parquet,Signer05,__ON__ NORDOST TIEF KOMMEN WOLKE REGEN,27October_2009_Tuesday_tagesschau_default-2/1
+465,landmark_dev/right_hand_landmarksdev_PHOENIX_465.parquet,Signer04,SUED SCHWACH WEHEN IX MAESSIG KUESTE FRISCH OST STURM NACHT TEIL BODEN FROST,27September_2009_Sunday_tagesschau_default-4/1
+466,landmark_dev/right_hand_landmarksdev_PHOENIX_466.parquet,Signer04,BERG MORGEN NOCH REGEN IX SCHAUER NORD GEWITTER,28December_2011_Wednesday_tagesschau_default-5/1
+467,landmark_dev/right_hand_landmarksdev_PHOENIX_467.parquet,Signer01,__ON__ WEHEN WIND SCHWACH MAESSIG BERG FRISCH WIND,28February_2011_Monday_tagesschau_default-9/1
+468,landmark_dev/right_hand_landmarksdev_PHOENIX_468.parquet,Signer05,NORDOST MINUS EINS WIE-AUSSEHEN IN-KOMMEND  SAMSTAG SCHNEE SCHNEIEN BESONDERS NORD WAHRSCHEINLICH SONNE,28January_2010_Thursday_tagesschau_default-10/1
+469,landmark_dev/right_hand_landmarksdev_PHOENIX_469.parquet,Signer01,__ON__ WEST SUEDWEST TIEF KOMMEN SCHAUER GEWITTER KOENNEN DEUTSCH WETTER DIENST WARNUNG __OFF__,28July_2011_Thursday_tagesschau_default-6/1
+470,landmark_dev/right_hand_landmarksdev_PHOENIX_470.parquet,Signer01,__ON__ WOCHENENDE MEHR KUEHL __OFF__,28July_2011_Thursday_tagesschau_default-19/1
+471,landmark_dev/right_hand_landmarksdev_PHOENIX_471.parquet,Signer08,__ON__ HOCH KOMMEN OST KOMMEN ES-BEDEUTET MORGEN FREUNDLICH WETTER __OFF__,28May_2010_Friday_tagesschau_default-2/1
+472,landmark_dev/right_hand_landmarksdev_PHOENIX_472.parquet,Signer07,AUCH MORGEN WETTER SUPER NICHT-HABEN FUENF GRAD NORDOST MILD WO SUEDWEST FLUSS ZWOELF GRAD,28November_2011_Monday_heute_default-6/1
+473,landmark_dev/right_hand_landmarksdev_PHOENIX_473.parquet,Signer07,NORDWEST BISSCHEN WOLKE KOMMEN TAG SUED MITTE WOLKE KRAEFTIG NEBEL,28November_2011_Monday_tagesschau_default-4/1
+474,landmark_dev/right_hand_landmarksdev_PHOENIX_474.parquet,Signer07,NACHT FUENF GRAD SEE MINUS VIER BERG IX __OFF__,28November_2011_Monday_tagesschau_default-7/1
+475,landmark_dev/right_hand_landmarksdev_PHOENIX_475.parquet,Signer07,ABER REGEN ERST FREITAG ABEND SUED KOMMEN REGEN BESONDERS NORDWEST MEHR WIND TEMPERATUR BISSCHEN STEIGEN WARM __OFF__,28November_2011_Monday_tagesschau_default-12/1
+476,landmark_dev/right_hand_landmarksdev_PHOENIX_476.parquet,Signer04,__ON__ NACHT VIERZEHN NORD SECHS ALLGAEU TAG VIERZEHN NORD REGEN EINS ZWANZIG FLUSS __OFF__,28September_2009_Monday_tagesschau_default-5/1
+477,landmark_dev/right_hand_landmarksdev_PHOENIX_477.parquet,Signer06,__ON__ SUEDWEST EUROPA SUED BEKOMMEN REGEN REGION LANG FREUNDLICH __OFF__,28September_2012_Friday_tagesschau_default-3/1
+478,landmark_dev/right_hand_landmarksdev_PHOENIX_478.parquet,Signer06,__ON__ SUED WIND SCHWACH NORD MAESSIG FRISCH SCHAUER KUESTE BERG TEIL STURM ORKAN __OFF__,28September_2012_Friday_tagesschau_default-11/1
+479,landmark_dev/right_hand_landmarksdev_PHOENIX_479.parquet,Signer03,MORGEN NACH MITTAG GEWITTER REGEN AUCH MORGEN TEMPERATUR ACHT BIS SECHSZEHN GRAD ,29April_2010_Thursday_heute_default-7/1
+480,landmark_dev/right_hand_landmarksdev_PHOENIX_480.parquet,Signer03,ZWOELF BIS ACHTZEHN GRAD OST REGION ZUERST WARM VIER AUCH SUED BAYERN  WARM ,29April_2010_Thursday_heute_default-9/1
+481,landmark_dev/right_hand_landmarksdev_PHOENIX_481.parquet,Signer04,NORD SCHAUER OFT STURM IX BERG ORKAN HABEN,29December_2011_Thursday_tagesschau_default-9/1
+482,landmark_dev/right_hand_landmarksdev_PHOENIX_482.parquet,Signer05,MORGEN WECHSELHAFT ABER IX MORGEN BISSCHEN BESSER RUHIG NACHT SCHNEE,29January_2010_Friday_tagesschau_default-3/1
+483,landmark_dev/right_hand_landmarksdev_PHOENIX_483.parquet,Signer05,HEUTE NACHT NULL ZWISCHEN MINUS FUENF MORGEN ZONE VIER GRAD PLUS VIER UND FLUSS EINS GRAD __OFF__,29January_2010_Friday_tagesschau_default-6/1
+484,landmark_dev/right_hand_landmarksdev_PHOENIX_484.parquet,Signer05,REGEN UND REGION KLAR ABER NORDWEST IX REGEN AUCH GEWITTER IX NORD __OFF__,29January_2013_Tuesday_tagesschau_default-7/1
+485,landmark_dev/right_hand_landmarksdev_PHOENIX_485.parquet,Signer05,KOMMEN ALPEN IX UND TEIL WAHRSCHEINLICH BISSCHEN NEBEL,29July_2010_Thursday_heute_default-3/1
+486,landmark_dev/right_hand_landmarksdev_PHOENIX_486.parquet,Signer05,__ON__ TEMPERATUR WIE-AUSSEHEN  MORGEN GLEICH SIEBZEHN ACHTZEHN SUEDOST WENN REGEN,29July_2010_Thursday_heute_default-7/1
+487,landmark_dev/right_hand_landmarksdev_PHOENIX_487.parquet,Signer05,__OFF__ A HOCH KOMMEN SAMSTAG SONNTAG MEHR SONNE TEMPERATUR STEIGEN,29July_2010_Thursday_tagesschau_default-2/1
+488,landmark_dev/right_hand_landmarksdev_PHOENIX_488.parquet,Signer03,WIND NORD SCHWACH MAESSIG WEHEN SCHWACH WEHEN HEUTE NACHT TEMPERATUR ELF BIS ACHTZEHN GRAD __OFF__,29June_2010_Tuesday_tagesschau_default-7/1
+489,landmark_dev/right_hand_landmarksdev_PHOENIX_489.parquet,Signer03,FREITAG UEBERWIEGEND SONNE UND SAMSTAG AUCH SONNE __OFF__,29June_2010_Tuesday_tagesschau_default-11/1
+490,landmark_dev/right_hand_landmarksdev_PHOENIX_490.parquet,Signer07,MORGEN TAG KOMMEN DARUM WARNUNG DEUTSCH WETTER DIENST WARNUNG INFORMIEREN,29June_2011_Wednesday_tagesschau_default-3/1
+491,landmark_dev/right_hand_landmarksdev_PHOENIX_491.parquet,Signer01,__ON__ JETZT MORGEN WETTER WIE-AUSSEHEN DIENSTAG DREISSIG MAERZ __OFF__,29March_2010_Monday_tagesschau_default-0/1
+492,landmark_dev/right_hand_landmarksdev_PHOENIX_492.parquet,Signer01,__ON__ IX HEUTE NACHT STARK WOLKE HIMMEL SONST REGION KLAR STERN KOENNEN SEHEN,29March_2011_Tuesday_tagesschau_default-7/1
+493,landmark_dev/right_hand_landmarksdev_PHOENIX_493.parquet,Signer01,ROSTOCK ACHT REGION LEIPZIG ACHTZEHN GRAD ZONE __OFF__,29March_2011_Tuesday_tagesschau_default-17/1
+494,landmark_dev/right_hand_landmarksdev_PHOENIX_494.parquet,Signer01,__ON__ WEHEN SCHWACH MAESSIG __OFF__,29May_2011_Sunday_tagesschau_default-11/1
+495,landmark_dev/right_hand_landmarksdev_PHOENIX_495.parquet,Signer01,__ON__ MITTWOCH IM-VERLAUF VERSCHWINDEN FREITAG TAG WIEDER MEISTENS SONNE __OFF__,29May_2011_Sunday_tagesschau_default-20/1
+496,landmark_dev/right_hand_landmarksdev_PHOENIX_496.parquet,Signer03,__ON__ MORGEN REGEN KOMMEN SCHWARZ WALD BERG REGION SCHNEE SIEBENHUNDERT FUENFHUNDERT METER BERG SCHON SCHNEE,29November_2009_Sunday_tagesschau_default-6/1
+497,landmark_dev/right_hand_landmarksdev_PHOENIX_497.parquet,Signer03,MORGEN NEUN GRAD DREIZEHN REGION GRAD GRUND FOEHN GAENSEFUSS __OFF__,29November_2009_Sunday_tagesschau_default-9/1
+498,landmark_dev/right_hand_landmarksdev_PHOENIX_498.parquet,Signer07,NICHTALP-KEIN HABEN REGION HABEN NACHT MOEGLICH BISSCHEN REGEN BESONDERS NORDWEST REGEN NORD SEE IX AUCH NACHT IX EIFEL BERG AUCH BERG,29November_2011_Tuesday_heute_default-2/1
+499,landmark_dev/right_hand_landmarksdev_PHOENIX_499.parquet,Signer07,WOCHENENDE DANN STURM BEDEUTEN MEISTENS WIND SCHOEN ABEND EUCH __OFF__,29November_2011_Tuesday_heute_default-13/1
+500,landmark_dev/right_hand_landmarksdev_PHOENIX_500.parquet,Signer07,__ON__ WOLKE HEUTE NACHT NORDWEST WOLKE BISSCHEN REGEN,29November_2011_Tuesday_tagesschau_default-2/1
+501,landmark_dev/right_hand_landmarksdev_PHOENIX_501.parquet,Signer07,TAG MEHR SUEDOST AUCH OST MEISTENS WOLKE BESONDERS TAG VOR MITTAG ZWISCHEN VORMITTAG BISSCHEN REGEN ORT,29November_2011_Tuesday_tagesschau_default-5/1
+502,landmark_dev/right_hand_landmarksdev_PHOENIX_502.parquet,Signer07,__ON__ NACHT SECHS GRAD SEE MINUS DREI FLUSS __OFF__,29November_2011_Tuesday_tagesschau_default-10/1
+503,landmark_dev/right_hand_landmarksdev_PHOENIX_503.parquet,Signer05,__ON__ JETZT WETTER WIE-AUSSEHEN MORGEN DREISSIG OKTOBER __OFF__,29October_2009_Thursday_tagesschau_default-0/1
+504,landmark_dev/right_hand_landmarksdev_PHOENIX_504.parquet,Signer04,SUED SCHWACH NORD MAESSIG KUESTE STARK STURM __OFF__,29September_2009_Tuesday_tagesschau_default-6/1
+505,landmark_dev/right_hand_landmarksdev_PHOENIX_505.parquet,Signer05,DANN MONTAG IX NORD SCHON UMWANDELN SCHOEN ABEND EUCH MACHEN GUT EUCH __OFF__,29September_2011_Thursday_heute_default-11/1
+506,landmark_dev/right_hand_landmarksdev_PHOENIX_506.parquet,Signer05,MONTAG MEER TIEF IX DEUTSCH NORD DEUTSCH LAND IX NORD IX KOMMEN DANN KUEHL KOMMEN,29September_2011_Thursday_tagesschau_default-3/1
+507,landmark_dev/right_hand_landmarksdev_PHOENIX_507.parquet,Signer06,__ON__ MONTAG VIEL REGION FREUNDLICH KUESTE SUEDOST KURZ WOLKE TEIL REGEN __OFF__,29September_2012_Saturday_tagesschau_default-14/1
+508,landmark_dev/right_hand_landmarksdev_PHOENIX_508.parquet,Signer06,__ON__ DIENSTAG WEST MEHR WOLKE SCHAUER __OFF__,29September_2012_Saturday_tagesschau_default-16/1
+509,landmark_dev/right_hand_landmarksdev_PHOENIX_509.parquet,Signer01,ABEND VERSCHWINDEN SONNE ABWECHSELN WOLKE ABWECHSELN WIND SCHWACH WEHEN __OFF__,30August_2010_Monday_tagesschau_default-9/1
+510,landmark_dev/right_hand_landmarksdev_PHOENIX_510.parquet,Signer07,__ON__ LIEB ZUSCHAUER GUT ABEND SOMMER ZWEITAUSEND ELF FAST VORBEI,30August_2011_Tuesday_heute_default-0/1
+511,landmark_dev/right_hand_landmarksdev_PHOENIX_511.parquet,Signer01,__ON__ HEUTE NACHT IX REGION NULL GRAD WENN STERN KOENNEN BIS MINUS ZWEIZWANZIG GRAD,30December_2010_Thursday_tagesschau_default-14/1
+512,landmark_dev/right_hand_landmarksdev_PHOENIX_512.parquet,Signer07,__ON__ JETZT WETTER VORAUS INFORMIEREN MORGEN MONTAG EINS DREISSIG JANUAR __OFF__,30January_2011_Sunday_tagesschau_default-0/1
+513,landmark_dev/right_hand_landmarksdev_PHOENIX_513.parquet,Signer05,FREITAG DANN KOMMEN REGEN UEBERWIEGEND WIND,30January_2013_Wednesday_tagesschau_default-14/1
+514,landmark_dev/right_hand_landmarksdev_PHOENIX_514.parquet,Signer05,__ON__ SONNTAG WAHRSCHEINLICH FREUNDLICH IM-VERLAUF WEST SCHNEE SCHNEIEN REGEN __OFF__,30January_2013_Wednesday_tagesschau_default-17/1
+515,landmark_dev/right_hand_landmarksdev_PHOENIX_515.parquet,Signer04,KUEHL SIEBEN GRAD ALLGAEU IX SECHSZEHN NORD MORGEN IX EINS ZWANZIG,30July_2010_Friday_tagesschau_default-7/1
+516,landmark_dev/right_hand_landmarksdev_PHOENIX_516.parquet,Signer01,__ON__ REGION VIEL HIMMEL REGION SUEDWEST AUCH LOCH NICHT-WOLKE NICHTALP-KEIN,30July_2011_Saturday_tagesschau_default-7/1
+517,landmark_dev/right_hand_landmarksdev_PHOENIX_517.parquet,Signer09,MORGEN FRUEH ANFANG FREUNDLICH IM-VERLAUF OST SUED,30June_2009_Tuesday_tagesschau_default-4/1
+518,landmark_dev/right_hand_landmarksdev_PHOENIX_518.parquet,Signer01,__ON__ JETZT WETTER WIE-AUSSEHEN MORGEN MITTWOCH EINS DREISSIG MAERZ __OFF__,30March_2010_Tuesday_tagesschau_default-0/1
+519,landmark_dev/right_hand_landmarksdev_PHOENIX_519.parquet,Signer05,SAMSTAG SONNTAG HOCH SPANIEN IX VERBREITEN SONNE AUCH TEIL TATSAECHLICH SCHON SOMMER TEMPERATUR,30March_2011_Wednesday_tagesschau_default-3/1
+520,landmark_dev/right_hand_landmarksdev_PHOENIX_520.parquet,Signer05,OST REGION IX SONNE WAHRSCHEINLICH DANN ABEND IX REGEN IX __OFF__,30March_2011_Wednesday_tagesschau_default-6/1
+521,landmark_dev/right_hand_landmarksdev_PHOENIX_521.parquet,Signer01,OST WARM REGION BIS DREISSIG GRAD REGION UEBERSPRINGEN REGION KUEHL NUR FUENFZEHN SECHSZEHN GRAD,30May_2011_Monday_heute_default-7/1
+522,landmark_dev/right_hand_landmarksdev_PHOENIX_522.parquet,Signer03,SUED VIERHUNDERT SIEBENHUNDERT METER HOEHE MOEGLICH SCHNEE ENORM ,30November_2009_Monday_tagesschau_default-5/1
+523,landmark_dev/right_hand_landmarksdev_PHOENIX_523.parquet,Signer03,__ON__ MORGEN TEMPERATUR NULL BIS SIEBEN GRAD FLUSS MOEGLICH ACHT GRAD __OFF__,30November_2009_Monday_tagesschau_default-10/1
+524,landmark_dev/right_hand_landmarksdev_PHOENIX_524.parquet,Signer08,__ON__ SKANDINAVIEN HOCH KOMMEN KALT KOMMEN FRANKREICH KOMMEN TIEF KOMMEN WOLKE KOMMEN KOENNEN SCHNEE REGEN,30November_2010_Tuesday_tagesschau_default-2/1
+525,landmark_dev/right_hand_landmarksdev_PHOENIX_525.parquet,Signer08,__ON__ KUESTE HEUTE NACHT SCHNEE REGION WOLKE BISSCHEN TROCKEN NORD MORGEN KOENNEN SONNE ,30November_2010_Tuesday_tagesschau_default-4/1
+526,landmark_dev/right_hand_landmarksdev_PHOENIX_526.parquet,Signer01,__ON__ REGION NOCH HOCH DRUCK KOMMEN __OFF__,30November_2011_Wednesday_tagesschau_default-4/1
+527,landmark_dev/right_hand_landmarksdev_PHOENIX_527.parquet,Signer01,__ON__ TAG FUENF GRAD NEBEL UND FUENFZEHN GRAD FOEHN REGION __OFF__,30November_2011_Wednesday_tagesschau_default-14/1
+528,landmark_dev/right_hand_landmarksdev_PHOENIX_528.parquet,Signer01,__ON__ SUEDOST SEIN FREUNDLICH SONNE SAMSTAG SONNTAG DANN WECHSELHAFT IX REGEN BESONDERS SONNTAG KOENNEN STURM __OFF__,30November_2011_Wednesday_tagesschau_default-18/1
+529,landmark_dev/right_hand_landmarksdev_PHOENIX_529.parquet,Signer03,WIND MAESSIG WEHEN WEST REGION HEUTE NACHT FUENF GRAD REGION HAUPTSAECHLICH FROST MOEGLICH GLATT VORSICHT ,30October_2009_Friday_tagesschau_default-6/1
+530,landmark_dev/right_hand_landmarksdev_PHOENIX_530.parquet,Signer06,__ON__ NACHT SYLT DREIZEHN GRAD MITTE BERG TAL NULL GRAD __OFF__,30September_2012_Sunday_tagesschau_default-12/1
+531,landmark_dev/right_hand_landmarksdev_PHOENIX_531.parquet,Signer06,__ON__ MITTWOCH NAECHSTE DASSELBE DONNERSTAG DEUTSCH LAND WECHSELHAFT UEBERWIEGEND REGEN MOEGLICH STARK WIND __OFF__,30September_2012_Sunday_tagesschau_default-18/1
+532,landmark_dev/right_hand_landmarksdev_PHOENIX_532.parquet,Signer01,TIEF REGEN OST KOMMEN VERSCHWINDEN IN-KOMMEND NEU,31August_2010_Tuesday_heute_default-2/1
+533,landmark_dev/right_hand_landmarksdev_PHOENIX_533.parquet,Signer01,__ON__ WIND SCHWACH WEHEN ZEIGEN-BILDSCHIRM __OFF__,31August_2010_Tuesday_tagesschau_default-9/1
+534,landmark_dev/right_hand_landmarksdev_PHOENIX_534.parquet,Signer05,__ON__ MORGEN NORDWEST ZWEI SONST REGION MINUS FUENF ZWISCHEN EINS ZWISCHEN,31January_2010_Sunday_tagesschau_default-12/1
+535,landmark_dev/right_hand_landmarksdev_PHOENIX_535.parquet,Signer01,__ON__ IX DANN SCHNEE KOENNEN,31January_2013_Thursday_tagesschau_default-7/1
+536,landmark_dev/right_hand_landmarksdev_PHOENIX_536.parquet,Signer01,ABEND DANN NORD SCHNEE FLACH SCHNEE MAXIMAL WIND WEHEN __OFF__,31January_2013_Thursday_tagesschau_default-8/1
+537,landmark_dev/right_hand_landmarksdev_PHOENIX_537.parquet,Signer01,__ON__ HOFFEN REGION JETZT NORDOST VERLAUFEN VERSCHWINDEN,31May_2011_Tuesday_heute_default-14/1
+538,landmark_dev/right_hand_landmarksdev_PHOENIX_538.parquet,Signer01,__ON__ DEUTSCH WETTER DIENST WARNUNG  NORDWEST IX AUCH KOMMEN SONNE MEISTENS __OFF__,31May_2011_Tuesday_tagesschau_default-4/1
+539,landmark_dev/right_hand_landmarksdev_PHOENIX_539.parquet,Signer03,__ON__ MOEGLICH HEUTE NACHT FROST GLATT VORSICHT FLUSS MOEGLICH PLUS ACHT,31October_2009_Saturday_tagesschau_default-8/1
